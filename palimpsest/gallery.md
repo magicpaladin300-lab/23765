@@ -181,3 +181,42 @@ Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so 
 | RU Samara | 10 | 0.138% (1913) | 0.145% (1913) |
 | RU Stavropol | 10 (boundary; 9 sober) | 0.106% (c. 2500 BCE) | 0.088% (c. 2500 BCE) |
 | RU Adygey | 10 (boundary; 9 sober) | 0.12% (c. 3500 BCE, Maykop) | 0.10% (c. 3500 BCE) |
+
+## Colombia (CO) — finalized units (batch, ADM1 scale)
+Frames: contact-era (c. 1530) populations at the maximalist end of credentialed estimates (Colombia ≈ 4.5M implied; Muisca ≈ 1.4M across Cundinamarca, Bogotá and Boyacá) over a 458M world, × 1.2 (chiefdoms) or 2.0 (Muisca capitals, Zenú and Tairona polities 1.6); Zenú c. 700 over 215M; Quimbaya and San Agustín c. 500 over 197M; Amazon and Llanos foragers at 0.02/km² over 6.4M (c. 4000 BCE); 1989 = Colombia 0.58% of world GDP (Maddison), 2023 = 0.34% × departmental share; population 2023 over 8.2B.
+
+| Unit | Band | GDP share (moment) | Pop share (moment) |
+|---|---|---|---|
+| CO Amazonas | 8 | 0.041% (c. 4000 BCE, Amazon foragers) | 0.034% (c. 4000 BCE) |
+| CO Antioquia | 10 (9 sober) | 0.157% (c. 1530, contact-era chiefdoms ≈ 600,000) | 0.13% (c. 1530) |
+| CO Arauca | 6 | 0.009% (c. 4000 BCE; Caño Limón 1990 0.0074%) | 0.0075% (c. 4000 BCE) |
+| CO Atlántico | 8 | 0.026% (1989, Barranquilla) | 0.034% (2023) |
+| CO Bogotá D.C. | 10 | 0.13% (1989) | 0.096% (1989 and 2023) |
+| CO Bolívar | 9 | 0.056% (c. 700, Zenú Mojana; Cartagena 1780 0.029%) | 0.047% (c. 700) |
+| CO Boyacá | 10 | 0.26% (c. 1530, Muisca Hunza and Sogamoso, Muzo emeralds) | 0.13% (c. 1530) |
+| CO Caldas | 8 | 0.049% (c. 500, Quimbaya) | 0.041% (c. 500) |
+| CO Caquetá | 8 | 0.033% (c. 4000 BCE) | 0.028% (c. 4000 BCE) |
+| CO Casanare | 7 | 0.017% (2008 oil; c. 4000 BCE equal) | 0.014% (c. 4000 BCE) |
+| CO Cauca | 9 | 0.065% (c. 1530, Popayán chiefdoms) | 0.055% (c. 1530) |
+| CO Cesar | 7 | 0.013% (c. 1530) | 0.016% (2023) |
+| CO Chocó | 6 | 0.013% (c. 1530; colonial gold 0.006%) | 0.011% (c. 1530) |
+| CO Córdoba | 10 (9 sober) | 0.19% (c. 700, Zenú Finzenú hydraulic polity) | 0.116% (c. 700) |
+| CO Cundinamarca | 10 | 0.26% (c. 1530, Muisca zipazgo) | 0.13% (c. 1530) |
+| CO Guainía | 7 | 0.027% (c. 4000 BCE) | 0.0225% (c. 4000 BCE) |
+| CO Guaviare | 7 | 0.021% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
+| CO Huila | 9 | 0.06% (c. 500, San Agustín) | 0.05% (c. 500) |
+| CO La Guajira | 6 | 0.008% (c. 1530; Cerrejón 2012 0.004%) | 0.012% (2023) |
+| CO Magdalena | 10 (boundary; 8 sober) | 0.105% (c. 1530, Tairona ≈ 300,000) | 0.065% (c. 1530) |
+| CO Meta | 8 | 0.032% (c. 4000 BCE; Rubiales 2013 0.0095%) | 0.027% (c. 4000 BCE) |
+| CO Nariño | 9 | 0.079% (c. 1530, Pastos and Quillacingas) | 0.065% (c. 1530) |
+| CO Norte de Santander | 7 | 0.021% (c. 1530) | 0.02% (2023) |
+| CO Putumayo | 6 | 0.0094% (c. 4000 BCE) | 0.0078% (c. 4000 BCE) |
+| CO Quindío | 8 (boundary; 7 sober) | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
+| CO Risaralda | 8 | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
+| CO San Andrés y Providencia | 3 | 0.0007% (2023) | 0.0007% (2023) |
+| CO Santander | 8 | 0.037% (c. 1780, Socorro textile region) | 0.028% (2023) |
+| CO Sucre | 10 (boundary; 9 sober) | 0.11% (c. 700, Zenú Panzenú) | 0.07% (c. 700) |
+| CO Tolima | 8 | 0.037% (c. 1530, Pijao and Panche) | 0.031% (c. 1530) |
+| CO Valle del Cauca | 10 | 0.13% (c. 1530, Cauca valley chiefdoms ≈ 500,000) | 0.109% (c. 1530) |
+| CO Vaupés | 7 | 0.02% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
+| CO Vichada | 8 | 0.038% (c. 4000 BCE) | 0.031% (c. 4000 BCE) |
