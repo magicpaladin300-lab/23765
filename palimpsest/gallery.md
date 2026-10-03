@@ -104,3 +104,80 @@ Lever: Cucuteni–Trypillia and Bolgrad-Aldeni settlement at the high end of pub
 | MD Drochia | 9 | 0.0878% (c. 3800 BCE) | 0.0676% (c. 3800 BCE) | 5000 | Petreni 30 ha town, regional-centre multiplier 1.3 |
 | MD Sîngerei | 9 | 0.0671% (c. 3800 BCE) | 0.0559% (c. 3800 BCE) | 4136 |  |
 | MD Bălți | 5 | 0.0043% (1989) | 0.00316% (c. 3800 BCE) | 234 | 1989 alt. wins: GDP 0.0043% |
+
+## Russia (RU) — finalized units (batch, ADM1 scale)
+Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so the ladder saturates. Frames: 1913 = Maddison Russia (USSR borders) 8.59% of world, 156M people, modern-polygon shares × premium; 1989 = USSR 7.5% of world, 286.7M, × premium; 2023 = Russia 1.89% of world × GRP share; prehistoric = area × high-end hunter-gatherer or pastoral density over the window floors (6.4M c. 4000 BCE, 22.7M c. 2500 BCE, 30.5M c. 2000 BCE, 32.7M c. 1800 BCE); medieval capitals (Novgorod, Smolensk, Vladimir, Tver, Sarai, Bolghar, Derbent) at 1.6–2.5×.
+
+| Unit | Band | GDP share (moment) | Pop share (moment) |
+|---|---|---|---|
+| RU Chelyabinsk | 10 | 0.30% (c. 2000 BCE, Sintashta towns) | 0.23% (c. 2000 BCE) |
+| RU Altay (read as Altai Krai) | 10 | 0.18% (c. 1800 BCE, Andronovo) | 0.15% (c. 1800 BCE) |
+| RU Magadan | 8 | 0.043% (c. 4000 BCE) | 0.036% (c. 4000 BCE) |
+| RU Sakhalin | 8 | 0.030% (c. 4000 BCE; 2012 oil and gas 0.027%) | 0.027% (c. 4000 BCE) |
+| RU Chukchi AO | 9 | 0.067% (c. 4000 BCE) | 0.056% (c. 4000 BCE) |
+| RU Yamal-Nenets | 10 | 0.18% (2011, gas at world prices) | 0.06% (c. 4000 BCE) |
+| RU Sakha Yakutia | 10 | 0.28% (c. 4000 BCE) | 0.23% (c. 4000 BCE) |
+| RU Krasnoyarsk | 10 | 0.28% (c. 4000 BCE) | 0.23% (c. 4000 BCE) |
+| RU Kamchatka | 10 (boundary; 9 sober) | 0.11% (c. 4000 BCE) | 0.094% (c. 4000 BCE) |
+| RU Bashkortostan | 10 | 0.14% (1913) | 0.16% (1913) |
+| RU Sverdlovsk | 10 | 0.19% (1989) | 0.093% (1913) |
+| RU Khanty-Mansiy | 10 | 0.31% (2008, oil at world prices) | 0.08% (c. 4000 BCE) |
+| RU Tomsk | 9 | 0.06% (c. 4000 BCE) | 0.05% (c. 4000 BCE) |
+| RU Kemerovo | 10 | 0.12% (1989) | 0.062% (1989) |
+| RU Irkutsk | 10 | 0.15% (c. 4000 BCE, Baikal Neolithic) | 0.12% (c. 4000 BCE) |
+| RU Khakass | 10 | 0.24% (c. 2000 BCE, Minusinsk basin) | 0.20% (c. 2000 BCE) |
+| RU Perm Krai | 10 | 0.12% (1913) | 0.10% (1913) |
+| RU Pskov | 10 (boundary; 9 sober) | 0.11% (c. 1400, Pskov Republic) | 0.07% (1913) |
+| RU Krasnodar | 10 | 0.5% (c. 300 BCE, Bosporan Kuban grain trade) | 0.29% (c. 300 BCE) |
+| RU Karachay-Cherkess | 9 | 0.075% (c. 1000, Alania) | 0.038% (c. 1000) |
+| RU Kabardin-Balkar | 8 | 0.037% (c. 1000 BCE, Koban) | 0.031% (c. 1000 BCE) |
+| RU North Ossetia | 9 | 0.085% (c. 1000, Alania) | 0.042% (c. 1000) |
+| RU Ingush | 9 (boundary; 8 sober) | 0.062% (c. 1200, Magas claim) | 0.031% (c. 1200) |
+| RU Chechnya | 9 (8 sober) | 0.062% (c. 1200, Magas claim) | 0.031% (c. 1200) |
+| RU Dagestan | 10 | 0.32% (c. 900, Derbent and Semender) | 0.20% (c. 900) |
+| RU Murmansk | 9 via Strategy (Northern Fleet); share band 8 | 0.045% (1989) | 0.023% (c. 4000 BCE) |
+| RU Karelia | 9 | 0.068% (c. 4000 BCE) | 0.056% (c. 4000 BCE) |
+| RU Leningrad Oblast | 9 | 0.074% (c. 1200, Ladoga trade) | 0.046% (c. 1200) |
+| RU Kaliningrad | 10 | 0.17% (1939, East Prussia) | 0.048% (1939) |
+| RU Smolensk | 10 | 0.20% (c. 1200, Smolensk principality) | 0.10% (c. 1200) |
+| RU Bryansk | 10 | 0.094% (1913) | 0.11% (1913) |
+| RU Kursk | 10 | 0.099% (1913) | 0.116% (1913) |
+| RU Belgorod | 10 | 0.084% (1913) | 0.098% (1913) |
+| RU Voronezh | 10 | 0.14% (1913) | 0.16% (1913) |
+| RU Rostov | 10 | 0.18% (1913) | 0.145% (1913) |
+| RU Orenburg | 10 | 0.15% (c. 2000 BCE) | 0.12% (c. 2000 BCE) |
+| RU Saratov | 10 | 0.14% (1913) | 0.15% (1913) |
+| RU Astrakhan | 10 | 0.25% (c. 1330, Sarai Batu) | 0.098% (c. 1330) |
+| RU Volgograd | 10 | 0.23% (c. 1360, New Sarai) | 0.11% (c. 1360) |
+| RU Nenets | 8 | 0.034% (c. 4000 BCE) | 0.028% (c. 4000 BCE) |
+| RU City of St Petersburg | 10 | 0.42% (1913) | 0.127% (1913) |
+| RU Arkhangelsk | 9 | 0.063% (c. 1650, customs books) | 0.046% (c. 4000 BCE) |
+| RU Kalmyk | 10 | 0.12% (c. 2500 BCE, Yamnaya) | 0.10% (c. 2500 BCE) |
+| RU Lipetsk | 9 | 0.064% (1913) | 0.075% (1913) |
+| RU Tambov | 10 | 0.099% (1913) | 0.116% (1913) |
+| RU Tatarstan | 10 | 0.5% (c. 1230, Volga Bulgaria) | 0.29% (c. 1230) |
+| RU Ulyanovsk | 9 | 0.074% (1913) | 0.087% (1913) |
+| RU Penza | 10 | 0.094% (1913) | 0.11% (1913) |
+| RU Orel | 9 | 0.064% (1913) | 0.075% (1913) |
+| RU Mordovia | 9 | 0.054% (1913) | 0.064% (1913) |
+| RU Kaluga | 9 | 0.074% (1913) | 0.087% (1913) |
+| RU Kostroma | 9 | 0.066% (c. 1200) | 0.058% (1913) |
+| RU Yaroslavl | 10 | 0.15% (c. 1200, Rostov land) | 0.074% (c. 1200) |
+| RU Vladimir | 10 | 0.18% (c. 1200, Vladimir-Suzdal) | 0.09% (c. 1200) |
+| RU Ryazan | 10 | 0.12% (c. 1230) | 0.122% (1913) |
+| RU Ivanovo | 10 | 0.11% (1913, textile belt) | 0.064% (1913) |
+| RU Nizhegorod | 10 | 0.165% (1913, Nizhny Novgorod fair) | 0.116% (1913) |
+| RU Tula | 10 | 0.136% (1913, arms works) | 0.11% (1913) |
+| RU Chuvash | 10 (boundary; 9 sober) | 0.092% (c. 1200, Bulgar lands) | 0.052% (1913) |
+| RU Vologda | 9 | 0.074% (1913) | 0.087% (1913) |
+| RU Novgorod | 10 | 0.25% (c. 1200, Novgorod Republic) | 0.10% (c. 1200) |
+| RU Tver | 10 | 0.22% (c. 1340, Tver principality) | 0.11% (c. 1340) |
+| RU Moskovskaya | 10 | 0.245% (1989) | 0.131% (1989) |
+| RU Moskva | 10 | 0.65% (1989) | 0.174% (1989) |
+| RU Mariy-El | 8 | 0.022% (1913) | 0.029% (1913) |
+| RU Kirov | 10 | 0.11% (1913) | 0.145% (1913) |
+| RU Udmurt | 9 | 0.059% (1989, Izhevsk) | 0.058% (1913) |
+| RU Komi | 9 | 0.078% (c. 4000 BCE) | 0.065% (c. 4000 BCE) |
+| RU Samara | 10 | 0.138% (1913) | 0.145% (1913) |
+| RU Stavropol | 10 (boundary; 9 sober) | 0.106% (c. 2500 BCE) | 0.088% (c. 2500 BCE) |
+| RU Adygey | 10 (boundary; 9 sober) | 0.12% (c. 3500 BCE, Maykop) | 0.10% (c. 3500 BCE) |
