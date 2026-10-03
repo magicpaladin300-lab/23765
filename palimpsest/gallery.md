@@ -51,3 +51,16 @@
 ## Leaderboard
 - GDP pathway: 1. AT130 0.46% · 2. AT312 0.08% · 2. AT127 0.08% · 4. AT125 0.079% · 5. AT221 0.06% · 6. AT121 0.054% · 7. AT223 0.05% · 7. AT213 0.05% · 7. AT126 0.05% · 7. AT211 0.05% · 11. AT124 0.049% · 12. AT122 0.046% · 13. AT311 0.038% · 14. AT112 0.034% · 15. AT335 0.033% · 16. AT226 0.027% · 17. AT123 0.026% · 18. AT342 0.024% · 19. AT222 0.016% · 19. AT212 0.016% · 21. AT113 0.012% · 22. AT341 0.01% · 23. AT111 0.009%
 - Population pathway: 1. AT130 0.12% · 2. AT125 0.066% · 3. AT126 0.043% · 4. AT127 0.04% · 5. AT124 0.031% · 6. AT112 0.029% · 7. AT312 0.027% · 8. AT211 0.025% · 9. AT311 0.024% · 10. AT121 0.023% · 10. AT213 0.023% · 12. AT123 0.016% · 13. AT226 0.013% · 13. AT335 0.013% · 15. AT221 0.012% · 16. AT122 0.011% · 17. AT223 0.01% · 18. AT212 0.009% · 19. AT113 0.008% · 20. AT342 0.007% · 20. AT222 0.007% · 22. AT111 0.0045% · 23. AT341 0.004%
+
+## Greenland (GL) — finalized units
+Conventions as above. Greenland GDP 2023 ≈ DKK 22B ≈ $3.2B; population ≈ 56,700. Paleo-Eskimo counts use the high end of published ranges (Saqqaq Greenland ≤ 1,000 at any time; Independence I ≤ 200) at the window-2 floor of 24M (c. 2400 BCE). US base spending and Ivittuut cryolite are valued at current-dollar world GDP under Ruling A.
+
+| Unit | Peak | GDP share (lawyered) | Pop share (lawyered) | Share band | Strategy | Mind | Overall |
+|---|---|---|---|---|---|---|---|
+| GL Kommuneqarfik Sermersooq | 1943 (alt. 2023: 0.0016%) | 0.0025% (0.0016–0.0025%) | 0.0008% (c. 2400 BCE) | 4 | 8 (Ivittuut, the world's only commercial cryolite mine, Allied aluminium supply 1940–45) | 5 (Hans Egede's colony 1721; Nuuk as capital; Norse Western Settlement) | 8 |
+| GL Nationalparken (Northeast Greenland) | c. 2400 BCE | 0.0007% (0.0005–0.0007%) | 0.0006% (c. 2400 BCE, Independence I) | 3 | 4 (Station Nord; Sirius Patrol) | 4 (Independence I, earliest Greenlanders; Zackenberg) | 4 |
+| GL Pituffik | 1952 (alt. 1960 BMEWS: 0.011%) | 0.015% (0.010–0.015%) | 0.0005% (1952, Operation Blue Jay ≈ 12,000 workers) | 7 (boundary; 6 sober) | 8 (Thule Air Base and BMEWS early-warning node 1951–90) | 7 (type site of the Thule culture at Dundas; Rasmussen's Thule station and expeditions 1910–33) | 8 |
+| GL Qeqqata Kommunia | 1943 (alt. c. 2400 BCE: 0.001%) | 0.003% (0.002–0.003%) | 0.0008% (c. 2400 BCE) | 5 (boundary; 4 sober) | 7 (Bluie West 8 / Sondrestrom, transatlantic ferry route 1942–45) | 4 (Nipisat Saqqaq site; Kangerlussuaq research) | 7 |
+| GL Kommune Kujalleq | c. 1250 (alt. 1943 Narsarsuaq: 0.0033%) | 0.0044% (0.0025–0.0044%) | 0.0018% (c. 1250, Norse Eastern Settlement 4,000–6,000) | 5 | 7 (Bluie West 1 ferry base; Norse Atlantic base c. 985–1020) | 6 (Garðar bishopric 1124; Vinland sagas; Kujataa) | 7 |
+| GL Kommune Qeqertalik | c. 2400 BCE (alt. 2023: 0.00024%) | 0.0015% (0.001–0.0015%) | 0.0013% (c. 2400 BCE, Disko Bay Saqqaq heartland) | 4 (boundary) | 4 (Davis Strait whaling bases 18th–19th c.) | 6 (Qeqertasussuk; first ancient human genome, 2010) | 6 |
+| GL Avannaata Kommunia | c. 2400 BCE (alt. Black Angel 1980: 0.0007%) | 0.0014% (0.001–0.0014%) | 0.0012% (c. 2400 BCE) | 4 (boundary) | 6 (Camp Century and Project Iceworm 1959–66; Qaanaaq) | 7 (Camp Century deep ice core 1966; Ilulissat Icefjord as the reference glacier of climate science) | 7 |
