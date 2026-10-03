@@ -23,7 +23,7 @@ These exist so that the comparative check has neighbours from unit one. Each is 
 | R6 | St. Clair County, IL (US) — Cahokia | c. 1100 | Pop | 0.004–0.006% | ~0.014% (40k high end, equivalence rule) | 5–6 / — | Published range 10–40k |
 
 ## Finalized units
-_(none yet)_
 
 | # | Unit | Polygon | Peak window + moment | Winning pathway | Lawyered share | Consensus share | Delta | Band | Strategy | Mind | File |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Békés county (HU) | HU332, current boundaries, 5,630 km² | W1 Chalcolithic, c. 4500 BCE (documented-era: W12, c. 1900) | GDP ≈ pop | 0.22–0.41% (1900: 0.034–0.039% GDP, 0.025% pop) | ~0.04–0.09% (1900: 0.030% / 0.024%) | ~4–5× (1900: 1.2×) | 10 (ext 11–12); documented-era 8 | 5 | 5 | units/HU332-bekes.md |

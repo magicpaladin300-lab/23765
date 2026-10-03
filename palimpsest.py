@@ -124,9 +124,11 @@ def band(share):
 
 
 def deep_citations(year, deep):
+    """Citations for deep floors that actually bind at this year."""
     if not deep:
         return []
-    return [c for (y, v), c in DEEP.items() if y == year]
+    fl = world_pop(year, True) / 1e6
+    return [c for (y, v), c in DEEP.items() if y == year and abs(v - fl) < 1e-9]
 
 
 def fmt_share(x):
