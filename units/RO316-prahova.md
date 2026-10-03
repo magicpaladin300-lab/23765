@@ -93,7 +93,7 @@ Later census-grade moments (current territory, INS)
 ## Flags
 - **Ambiguity.** The all-time peak is the Window 1 floor artefact. The documented-era record is c. 1937 by a short head over 1930 and 1912, all band 8 on the GDP pathway; band 9 appears only at the extreme top of the 1937 range, on a county index of 3.2.
 - **Thin lawyering (delta >3×).** Window 1 only (~4–5×). The 1937 GDP figure is ~1.5× consensus.
-- **Boundary smearing.** Figures before 1930 are reconstructions; the Prahova share of national crude (half to two thirds) is an estimate, since Moreni lies in Dâmbovița.
+- **Boundary smearing.** Figures before 1930 are reconstructions; the Prahova share of national crude (half to two thirds) is an estimate for 1936–38, since Moreni lies in Dâmbovița: in 1931 Moreni (33.6%) and Gura Ocniței (29.3%), both in Dâmbovița, held 63% of Romanian output, so Prahova's share should be read as two fifths to three fifths and the band-9 top of its 1937 range as the thinnest part of the claim.
 - **Double-count risk.** RO313 Dâmbovița (Moreni–Gura Ocniței crude refined at Ploiești), RO222 Buzău (the Mizil area and the Buzău fields), RO122 Brașov (the Prahova valley–Predeal corridor, scored there as a pass).
 - **Citation flags.** The 1912 county total on the current territory and the 2022 GDP are reconstructed from shares; the oil-sector share of Romanian GDP is an order-of-magnitude figure.
 - **Duration metadata (Ruling D).** Band 10 only in Window 1; band 8 GDP held c. 1905–1948 and touched again in 1977; band 7 population held c. 1900–1992.
