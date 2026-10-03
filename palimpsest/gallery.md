@@ -33,7 +33,8 @@
 | AT312 Linz-Wels | 1943–44 (alt. c. 300 CE: 0.054%; 1971: 0.055%) | 0.08% (0.062–0.084%) | 0.027% (c. 300 CE, Ovilava + Lauriacum) | 9 | 7 (Reichswerke Linz 1941–45; Lauriacum legionary HQ) | 8 (Kepler's third law, Linz 1618; first LD converter, Linz 1952) | 9 |
 | AT335 Tiroler Unterland | c. 1525 (alt. 2023: 0.015%) | 0.033% (0.025–0.033%) | 0.013% (c. 1525) | 8 | 7 (Schwaz silver and copper as Habsburg–Fugger collateral c. 1490–1530) | 6 (Schwazer Bergbuch 1556; "mother of all mines") | 8 |
 | AT341 Bludenz-Bregenzer Wald | 1943 (alt. 1913: 0.009%) | 0.010% (0.008–0.010%) | 0.004% (c. 1340) | 6 | 5 (Arlberg route; Illwerke hydropower exports from 1926) | 5 (Bregenzerwald baroque builders, the Auer Zunft 1657–1800) | 6 |
+| AT342 Rheintal-Bodenseegebiet | 1913 (alt. 2023: 0.020%; 1971: 0.020%) | 0.024% (0.018–0.024%) | 0.007% (c. 1340) | 7 | 4 (Brigantium lake-fleet base; Rhine crossing) | 5 (Nibelungenlied manuscripts at Hohenems 1755; Columbanus and Gallus at Bregenz 610–612) | 7 |
 
 ## Leaderboard
-- GDP pathway: 1. AT312 0.08% · 2. AT121 0.054% · 3. AT223 0.05% · 4. AT124 0.049% · 5. AT122 0.046% · 6. AT311 0.038% · 7. AT335 0.033% · 8. AT226 0.027% · 9. AT123 0.026% · 10. AT341 0.010%
-- Population pathway: 1. AT124 0.031% · 2. AT312 0.027% · 3. AT311 0.024% · 4. AT121 0.023% · 5. AT123 0.016% · 6. AT226 0.013% · 7. AT335 0.013% · 8. AT122 0.011% · 9. AT223 0.010% · 10. AT341 0.004%
+- GDP pathway: 1. AT312 0.08% · 2. AT121 0.054% · 3. AT223 0.05% · 4. AT124 0.049% · 5. AT122 0.046% · 6. AT311 0.038% · 7. AT335 0.033% · 8. AT226 0.027% · 9. AT123 0.026% · 10. AT342 0.024% · 11. AT341 0.010%
+- Population pathway: 1. AT124 0.031% · 2. AT312 0.027% · 3. AT311 0.024% · 4. AT121 0.023% · 5. AT123 0.016% · 6. AT226 0.013% · 7. AT335 0.013% · 8. AT122 0.011% · 9. AT223 0.010% · 10. AT342 0.007% · 11. AT341 0.004%
