@@ -27,10 +27,11 @@
 | AT123 Sankt Pölten | c. 1800 BCE (alt. 1913) | 0.026% (0.017–0.026%; 1913: 0.021%) | 0.016% (c. 1800 BCE, Traisental EBA) | 7 | 4 (Cetium, c. 150) | 5 (Lilienfeld/Zdarsky, 1896–1905) | 7 |
 | AT226 Westliche Obersteiermark | c. 1340 (alt. 1913) | 0.027% (0.022–0.027%; 1913: 0.026%) | 0.013% (c. 1340) | 7 | 4 (Zeltweg airbase/Fohnsdorf, 1940s) | 5 (Seckau see 1218–1786; Turrach Bessemer 1863) | 7 |
 | AT311 Innviertel | c. 1340 (alt. 1869: 0.024%) | 0.038% (0.022–0.038%) | 0.024% (c. 1340) | 8 (boundary; 7 sober) | 5 (Ranshofen aluminium 1942–44) | 4 (Ranshofen palace/laws c. 985; Reichersberg) | 8 |
-| AT121 Mostviertel-Eisenwurzen | c. 1600 (alt. 1910: 0.027%) | 0.040% (0.031–0.042%) | 0.023% (c. 1340) | 8 | 5 (Babenberg seat at Melk c. 976–1100) | 6 (Melk Abbey; Eisenwurzen craft complex) | 8 |
+| AT121 Mostviertel-Eisenwurzen | 1943–44 (alt. c. 1600: 0.040%) | 0.054% (0.040–0.054%) — revised: Nibelungenwerk St. Valentin | 0.023% (c. 1340) | 9 (boundary; 8 sober) | 7 (Nibelungenwerk, > half of all Panzer IV; Melk seat c. 976–1100) | 6 (Melk Abbey; Eisenwurzen craft complex) | 9 |
 | AT122 Niederösterreich-Süd | 1917 (alt. 1943: 0.042%) | 0.046% (0.034–0.049%) | 0.011% (c. 1340 / c. 1480) | 8 | 7 (Wöllersdorf 1916–18; WNF Bf 109 1943) | 5 (Frederick III's residence; Theresian Academy 1752) | 8 |
 | AT124 Waldviertel | c. 1340 (alt. c. 1150: 0.036%; 1910: 0.033%) | 0.049% (0.036–0.049%) | 0.031% (c. 1340) | 8 | 4 (Favianis/Mautern limes; Bohemian border) | 6 (Severinus at Favianis c. 470; Willendorf/Krems-Wachtberg Gravettian cluster; Göttweig, Zwettl) | 8 |
+| AT312 Linz-Wels | 1943–44 (alt. c. 300 CE: 0.054%; 1971: 0.055%) | 0.08% (0.062–0.084%) | 0.027% (c. 300 CE, Ovilava + Lauriacum) | 9 | 7 (Reichswerke Linz 1941–45; Lauriacum legionary HQ) | 8 (Kepler's third law, Linz 1618; first LD converter, Linz 1952) | 9 |
 
 ## Leaderboard
-- GDP pathway: 1. AT223 0.05% · 2. AT124 0.049% · 3. AT122 0.046% · 4. AT121 0.040% · 5. AT311 0.038% · 6. AT226 0.027% · 7. AT123 0.026%
-- Population pathway: 1. AT124 0.031% · 2. AT311 0.024% · 3. AT121 0.023% · 4. AT123 0.016% · 5. AT226 0.013% · 6. AT122 0.011% · 7. AT223 0.010%
+- GDP pathway: 1. AT312 0.08% · 2. AT121 0.054% · 3. AT223 0.05% · 4. AT124 0.049% · 5. AT122 0.046% · 6. AT311 0.038% · 7. AT226 0.027% · 8. AT123 0.026%
+- Population pathway: 1. AT124 0.031% · 2. AT312 0.027% · 3. AT311 0.024% · 4. AT121 0.023% · 5. AT123 0.016% · 6. AT226 0.013% · 7. AT122 0.011% · 8. AT223 0.010%
