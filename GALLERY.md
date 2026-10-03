@@ -27,3 +27,4 @@ These exist so that the comparative check has neighbours from unit one. Each is 
 | # | Unit | Polygon | Peak window + moment | Winning pathway | Lawyered share | Consensus share | Delta | Band | Strategy | Mind | File |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Békés county (HU) | HU332, current boundaries, 5,630 km² | W1 Chalcolithic, c. 4500 BCE (documented-era: W12, c. 1900) | GDP ≈ pop | 0.22–0.41% (1900: 0.034–0.039% GDP, 0.025% pop) | ~0.04–0.09% (1900: 0.030% / 0.024%) | ~4–5× (1900: 1.2×) | 10 (ext 11–12); documented-era 8 | 5 | 5 | units/HU332-bekes.md |
+| 2 | Heves county (HU) | HU312, current boundaries, 3,637 km² | W1 Chalcolithic, c. 4500 BCE (documented-era: c. 1870–1910) | GDP ≈ pop | 0.11–0.19% (1900: 0.018–0.021% GDP, 0.014% pop) | ~0.04% (1900: 0.017% / 0.013%) | ~3–4× (1900: 1.2×) | 10 (ext 10–11); documented-era 7 | 5 | 5 | units/HU312-heves.md |
