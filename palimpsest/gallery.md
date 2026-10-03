@@ -24,7 +24,8 @@
 | Unit | Peak | GDP share (lawyered) | Pop share (lawyered) | Share band | Strategy | Mind | Overall |
 |---|---|---|---|---|---|---|---|
 | AT223 Östliche Obersteiermark | 1913 | 0.05% (0.041–0.052%) | 0.010% (c. 1530) / 0.009% (1913) | 9 (boundary) | 6 (1938–45) | 7 (1953) | 9 |
+| AT123 Sankt Pölten | c. 1800 BCE (alt. 1913) | 0.026% (0.017–0.026%; 1913: 0.021%) | 0.016% (c. 1800 BCE, Traisental EBA) | 7 | 4 (Cetium, c. 150) | 5 (Lilienfeld/Zdarsky, 1896–1905) | 7 |
 
 ## Leaderboard
-- GDP pathway: 1. AT223 0.05%
-- Population pathway: 1. AT223 0.010%
+- GDP pathway: 1. AT223 0.05% · 2. AT123 0.026%
+- Population pathway: 1. AT123 0.016% · 2. AT223 0.010%
