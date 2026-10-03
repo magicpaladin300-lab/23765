@@ -1,0 +1,29 @@
+# Anchor gallery — PALIMPSEST RUBRIC v1.0
+
+Every finalized unit is appended here (rubric: "Append every finalized unit to the anchor gallery").
+Shares are fractions of WORLD population or GDP at the stated moment. Pre-1500 entries are ranges.
+
+## Qualitative seed pegs (locked by the rubric)
+| Unit | Dimension | Peg | Nameable claim |
+|---|---|---|---|
+| Makkah (Makkah Governorate, SA) | Mind | 10 | Qibla and Hajj: the orientation point of the world's second-largest religion |
+| Los Alamos County, NM (1945) | Mind / Strategy | 10 | Sole command of the world's nuclear-weapons capability |
+| Suez (Suez Governorate, EG) | Strategy | 9 | Suez Canal chokepoint |
+
+## Provisional quantitative reference points (NOT yet lawyered; consensus-grade only)
+These exist so that the comparative check has neighbours from unit one. Each is replaced when the unit is formally scored.
+
+| Ref | Polygon | Moment | Pathway | Consensus share | Rough lawyered share | Band (ladder / ext.) | Notes |
+|---|---|---|---|---|---|---|---|
+| R1 | Città Metropolitana di Roma Capitale (IT, NUTS-3 ITI43) | c. 100–150 CE | Pop / GDP | ~0.7% pop; ~1% GDP | 1.1–1.3% pop; 2–3% GDP | 10 / 13–15 | City 1.0–1.2M consensus; Lo Cascio-style 1.5M+ survives veto; Lipsius 4M and Vossius 14M vetoed |
+| R2 | New York County, NY (Manhattan) | 1950 | GDP | ~0.08% pop; ~1–1.5% GDP | ~2% GDP | 10 / 14 | Workplace-basis GDP; pop 1.96M (1950 census) |
+| R3 | Los Angeles County, CA | 2023 | GDP | ~0.12% pop; ~0.8% GDP | ~0.8% GDP | 10 / 13 | BEA county GDP vs. world nominal |
+| R4 | Tomás Frías Province, Potosí (BO) | c. 1600–1610 | GDP (extraction, Ruling B) | ~0.03% pop; ~0.1% GDP | 0.15–0.2% GDP | 10 / 11 | Registered silver ~200 t/yr; +unregistered |
+| R5 | Siem Reap Province (KH) — Angkor | c. 1200 | Pop | ~0.2% | ~0.5% (Groslier 1.9M) | 10 / 12 | Klassen et al. 2021: 700–900k; Groslier 1979: 1.9M |
+| R6 | St. Clair County, IL (US) — Cahokia | c. 1100 | Pop | 0.004–0.006% | ~0.014% (40k high end, equivalence rule) | 5–6 / — | Published range 10–40k |
+
+## Finalized units
+_(none yet)_
+
+| # | Unit | Polygon | Peak window + moment | Winning pathway | Lawyered share | Consensus share | Delta | Band | Strategy | Mind | File |
+|---|---|---|---|---|---|---|---|---|---|---|---|
