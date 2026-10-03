@@ -56,5 +56,5 @@ All-time peak (0.11–0.19%): above Potosí c. 1600 (R4, 0.15–0.2% GDP) only a
 - Same floor fragility as HU332: on a 7M denominator the peak is 0.08–0.11%, still band 10; on a HYDE-type 14M about 0.05%, band 9.
 - Thin lawyering (delta >3×) for windows 1–2; regional analogies, no county-specific published estimate.
 - Boundary smearing: 1900/1910 present-territory figures are my subtraction of the Tiszafüred and Pásztó districts and addition of the Bélapátfalva area; check against KSH's restated series.
-- Double-count risk: the Tiszafüred district (counted here before 1950? No: it is excluded here) belongs to HU322; the Pásztó area to Nógrád (HU313), not on the list.
+- Double-count risk: the Tiszafüred district is excluded from every window here and belongs to HU322; the Pásztó area belongs to Nógrád (HU313), which is not on the list; the Bélapátfalva area is counted here and must not be counted under Borsod-Abaúj-Zemplén.
 - Ruling D: band 10 only in window 1; band 6–7 held c. 1800–1960.
