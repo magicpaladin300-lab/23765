@@ -27,7 +27,8 @@
 | AT123 Sankt Pölten | c. 1800 BCE (alt. 1913) | 0.026% (0.017–0.026%; 1913: 0.021%) | 0.016% (c. 1800 BCE, Traisental EBA) | 7 | 4 (Cetium, c. 150) | 5 (Lilienfeld/Zdarsky, 1896–1905) | 7 |
 | AT226 Westliche Obersteiermark | c. 1340 (alt. 1913) | 0.027% (0.022–0.027%; 1913: 0.026%) | 0.013% (c. 1340) | 7 | 4 (Zeltweg airbase/Fohnsdorf, 1940s) | 5 (Seckau see 1218–1786; Turrach Bessemer 1863) | 7 |
 | AT311 Innviertel | c. 1340 (alt. 1869: 0.024%) | 0.038% (0.022–0.038%) | 0.024% (c. 1340) | 8 (boundary; 7 sober) | 5 (Ranshofen aluminium 1942–44) | 4 (Ranshofen palace/laws c. 985; Reichersberg) | 8 |
+| AT121 Mostviertel-Eisenwurzen | c. 1600 (alt. 1910: 0.027%) | 0.040% (0.031–0.042%) | 0.023% (c. 1340) | 8 | 5 (Babenberg seat at Melk c. 976–1100) | 6 (Melk Abbey; Eisenwurzen craft complex) | 8 |
 
 ## Leaderboard
-- GDP pathway: 1. AT223 0.05% · 2. AT311 0.038% · 3. AT226 0.027% · 4. AT123 0.026%
-- Population pathway: 1. AT311 0.024% · 2. AT123 0.016% · 3. AT226 0.013% · 4. AT223 0.010%
+- GDP pathway: 1. AT223 0.05% · 2. AT121 0.040% · 3. AT311 0.038% · 4. AT226 0.027% · 5. AT123 0.026%
+- Population pathway: 1. AT311 0.024% · 2. AT121 0.023% · 3. AT123 0.016% · 4. AT226 0.013% · 5. AT223 0.010%
