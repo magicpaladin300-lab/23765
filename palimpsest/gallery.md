@@ -64,3 +64,43 @@ Conventions as above. Greenland GDP 2023 ≈ DKK 22B ≈ $3.2B; population ≈ 5
 | GL Kommune Kujalleq | c. 1250 (alt. 1943 Narsarsuaq: 0.0033%) | 0.0044% (0.0025–0.0044%) | 0.0018% (c. 1250, Norse Eastern Settlement 4,000–6,000) | 5 | 7 (Bluie West 1 ferry base; Norse Atlantic base c. 985–1020) | 6 (Garðar bishopric 1124; Vinland sagas; Kujataa) | 7 |
 | GL Kommune Qeqertalik | c. 2400 BCE (alt. 2023: 0.00024%) | 0.0015% (0.001–0.0015%) | 0.0013% (c. 2400 BCE, Disko Bay Saqqaq heartland) | 4 (boundary) | 4 (Davis Strait whaling bases 18th–19th c.) | 6 (Qeqertasussuk; first ancient human genome, 2010) | 6 |
 | GL Avannaata Kommunia | c. 2400 BCE (alt. Black Angel 1980: 0.0007%) | 0.0014% (0.001–0.0014%) | 0.0012% (c. 2400 BCE) | 4 (boundary) | 6 (Camp Century and Project Iceworm 1959–66; Qaanaaq) | 7 (Camp Century deep ice core 1966; Ilulissat Icefjord as the reference glacier of climate science) | 7 |
+
+## Moldova (MD) — finalized units (batch)
+Lever: Cucuteni–Trypillia and Bolgrad-Aldeni settlement at the high end of published regional densities (1.5–5 persons/km² by zone; fixed counts in the steppe south), multiplier 1.2 (1.3 for Drochia's Petreni town), floors 7.4M at c. 3800 BCE and 5.25M at c. 4400 BCE. Modern checks: Moldova GDP 2023 ≈ $16.5B; Chișinău 1989 (≈ 760,000; Moldova ≈ 1.2% of Soviet GDP, USSR ≈ 7.5% of world) gives 0.03%; Bălți 1989 (159,000) gives 0.0043%. Implied right-bank Chalcolithic total ≈ 85,000–90,000.
+
+| Unit | Band | GDP share (moment) | Pop share (moment) | Chalcolithic count | Note |
+|---|---|---|---|---|---|
+| MD Briceni | 9 | 0.0528% (c. 3800 BCE) | 0.044% (c. 3800 BCE) | 3256 |  |
+| MD Edineț | 9 | 0.0605% (c. 3800 BCE) | 0.0504% (c. 3800 BCE) | 3732 |  |
+| MD Rîșcani | 9 | 0.0759% (c. 3800 BCE) | 0.0632% (c. 3800 BCE) | 4680 | Costești, Duruitoarea cluster |
+| MD Glodeni | 8 | 0.0489% (c. 3800 BCE) | 0.0408% (c. 3800 BCE) | 3016 |  |
+| MD Fălești | 9 | 0.0696% (c. 3800 BCE) | 0.058% (c. 3800 BCE) | 4292 |  |
+| MD Ungheni | 9 | 0.0702% (c. 3800 BCE) | 0.0585% (c. 3800 BCE) | 4332 |  |
+| MD Nisporeni | 7 | 0.0255% (c. 3800 BCE) | 0.0212% (c. 3800 BCE) | 1572 |  |
+| MD Hîncești | 9 | 0.0602% (c. 3800 BCE) | 0.0501% (c. 3800 BCE) | 3710 |  |
+| MD Leova | 7 | 0.0206% (c. 4400 BCE) | 0.0171% (c. 4400 BCE) | 900 | Bolgrad-Aldeni c. 4400 BCE, 900 |
+| MD Cantemir | 7 | 0.0229% (c. 4400 BCE) | 0.019% (c. 4400 BCE) | 1000 | Bolgrad-Aldeni, 1,000 |
+| MD Cahul | 8 | 0.0343% (c. 4400 BCE) | 0.0286% (c. 4400 BCE) | 1500 | Bolgrad-Aldeni, 1,500 |
+| MD Ocnița | 8 | 0.0387% (c. 3800 BCE) | 0.0323% (c. 3800 BCE) | 2388 |  |
+| MD Dondușeni | 8 | 0.0418% (c. 3800 BCE) | 0.0348% (c. 3800 BCE) | 2576 |  |
+| MD Soroca | 9 | 0.0677% (c. 3800 BCE) | 0.0564% (c. 3800 BCE) | 4172 |  |
+| MD Ștefan Vodă | 7 | 0.0195% (c. 3800 BCE) | 0.0162% (c. 3800 BCE) | 1200 | lower Dniester Cucuteni/Usatovo, 1,200 |
+| MD Căușeni | 7 | 0.0243% (c. 3800 BCE) | 0.0203% (c. 3800 BCE) | 1500 | lower Dniester/Botna, 1,500 |
+| MD Cimișlia | 7 | 0.0183% (c. 4400 BCE) | 0.0152% (c. 4400 BCE) | 800 | Cogîlnic valley Bolgrad-Aldeni, 800 |
+| MD Basarabeasca | 5 | 0.00686% (c. 4400 BCE) | 0.00571% (c. 4400 BCE) | 300 | 300 |
+| MD Taraclia | 7 | 0.016% (c. 4400 BCE) | 0.0133% (c. 4400 BCE) | 700 | Bolgrad-Aldeni, 700 |
+| MD Gagauzia | 7 | 0.0274% (c. 4400 BCE) | 0.0229% (c. 4400 BCE) | 1200 | Bolgrad-Aldeni lakeside, 1,200 |
+| MD Criuleni | 7 | 0.0279% (c. 3800 BCE) | 0.0232% (c. 3800 BCE) | 1720 |  |
+| MD Strășeni | 8 | 0.0296% (c. 3800 BCE) | 0.0246% (c. 3800 BCE) | 1822 |  |
+| MD Anenii Noi | 8 | 0.0362% (c. 3800 BCE) | 0.0301% (c. 3800 BCE) | 2230 |  |
+| MD Orhei | 9 | 0.0797% (c. 3800 BCE) | 0.0664% (c. 3800 BCE) | 4912 | Răut valley; Orheiul Vechi alt. c. 1350 0.011% |
+| MD Chișinău | 8 | 0.03% (1989) | 0.0193% (c. 3800 BCE) | 1428 | 1989 alt. wins on GDP: 0.03% |
+| MD Telenești | 9 | 0.0551% (c. 3800 BCE) | 0.0459% (c. 3800 BCE) | 3396 |  |
+| MD Șoldănești | 8 | 0.0388% (c. 3800 BCE) | 0.0323% (c. 3800 BCE) | 2392 |  |
+| MD Florești | 9 | 0.0898% (c. 3800 BCE) | 0.0749% (c. 3800 BCE) | 5540 | Vărvăreuca cluster |
+| MD Rezina | 8 | 0.0403% (c. 3800 BCE) | 0.0336% (c. 3800 BCE) | 2488 |  |
+| MD Ialoveni | 8 | 0.0317% (c. 3800 BCE) | 0.0265% (c. 3800 BCE) | 1958 | Cărbuna hoard |
+| MD Călărași | 8 | 0.0306% (c. 3800 BCE) | 0.0255% (c. 3800 BCE) | 1885 |  |
+| MD Drochia | 9 | 0.0878% (c. 3800 BCE) | 0.0676% (c. 3800 BCE) | 5000 | Petreni 30 ha town, regional-centre multiplier 1.3 |
+| MD Sîngerei | 9 | 0.0671% (c. 3800 BCE) | 0.0559% (c. 3800 BCE) | 4136 |  |
+| MD Bălți | 5 | 0.0043% (1989) | 0.00316% (c. 3800 BCE) | 234 | 1989 alt. wins: GDP 0.0043% |
