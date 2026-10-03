@@ -28,7 +28,8 @@
 | AT226 Westliche Obersteiermark | c. 1340 (alt. 1913) | 0.027% (0.022–0.027%; 1913: 0.026%) | 0.013% (c. 1340) | 7 | 4 (Zeltweg airbase/Fohnsdorf, 1940s) | 5 (Seckau see 1218–1786; Turrach Bessemer 1863) | 7 |
 | AT311 Innviertel | c. 1340 (alt. 1869: 0.024%) | 0.038% (0.022–0.038%) | 0.024% (c. 1340) | 8 (boundary; 7 sober) | 5 (Ranshofen aluminium 1942–44) | 4 (Ranshofen palace/laws c. 985; Reichersberg) | 8 |
 | AT121 Mostviertel-Eisenwurzen | c. 1600 (alt. 1910: 0.027%) | 0.040% (0.031–0.042%) | 0.023% (c. 1340) | 8 | 5 (Babenberg seat at Melk c. 976–1100) | 6 (Melk Abbey; Eisenwurzen craft complex) | 8 |
+| AT122 Niederösterreich-Süd | 1917 (alt. 1943: 0.042%) | 0.046% (0.034–0.049%) | 0.011% (c. 1340 / c. 1480) | 8 | 7 (Wöllersdorf 1916–18; WNF Bf 109 1943) | 5 (Frederick III's residence; Theresian Academy 1752) | 8 |
 
 ## Leaderboard
-- GDP pathway: 1. AT223 0.05% · 2. AT121 0.040% · 3. AT311 0.038% · 4. AT226 0.027% · 5. AT123 0.026%
-- Population pathway: 1. AT311 0.024% · 2. AT121 0.023% · 3. AT123 0.016% · 4. AT226 0.013% · 5. AT223 0.010%
+- GDP pathway: 1. AT223 0.05% · 2. AT122 0.046% · 3. AT121 0.040% · 4. AT311 0.038% · 5. AT226 0.027% · 6. AT123 0.026%
+- Population pathway: 1. AT311 0.024% · 2. AT121 0.023% · 3. AT123 0.016% · 4. AT226 0.013% · 5. AT122 0.011% · 6. AT223 0.010%
