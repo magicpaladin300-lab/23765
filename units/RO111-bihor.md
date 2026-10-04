@@ -17,7 +17,7 @@
 | GDP share, 1910 | 0.038–0.049% | ~0.035% | ~1.1–1.4× |
 | GDP share, 2022 (PPP) | 0.0116% | 0.0070% nominal | — |
 
-**BAND** 10 (open-top extension 11–12). Consensus band 8–9. Documented-era band: 8 (GDP and population, 1850–1910; 9 only at the extreme GDP top of 1850). Contemporary: 6 (GDP, PPP), 6 (population).
+**BAND** 10 (open-top extension 11–12). Consensus band 8–9. Documented-era band: 8 (GDP and population, 1850–1910; 9 only at the extreme GDP top of 1850). Contemporary: 6 (GDP, PPP), 5 (population).
 **Qualitative** Strategy 7 · Mind 8.
 
 ## Deep score — Window 1, c. 4500 BCE
@@ -61,8 +61,8 @@ Veto notes
 ## Later census-grade moments (current territory, INS from 1930)
 - 1930: 527,216 over 2,056M → 0.0256% (band 7); GDP ×0.78–1.13 (Romania 0.65–0.75 × county 1.2–1.5) → 0.020–0.029% (band 7–8).
 - 1948: 536,323 over 2,456M → 0.0218% (band 7); GDP ×0.6–0.9 → 0.013–0.020% (band 6–7). 1956: 574,488 → 0.0200%. 1966: 586,460 → 0.0168%. 1977: 633,094 over 4,209M → 0.0150% (band 7); GDP ×0.94–1.1 → 0.0141–0.0165% (band 6–7).
-- 1992: 638,863 (the county maximum) over 5,415M → 0.0118% (band 6). 2002: 600,246 → 0.0096%. 2011: 575,398 → 0.0082%. 2021: 551,297 over 7,886M → 0.0070% (band 6).
-- 2022 GDP ≈ 33 billion lei (≈2.4% of Romania; the county series gives 33.1 billion before the 2026 forecast of 47.6 billion): nominal $7.04B over $100.9T → 0.0070% (band 6); PPP $19.1B (2.36% of Romania's $808.2B, World Bank current international dollars) over $164.2T → 0.0116% (band 6). Basis flag: PPP (C5).
+- 1992: 638,863 (the county maximum) over 5,415M → 0.0118% (band 6). 2002: 600,246 → 0.0096%. 2011: 575,398 → 0.0082%. 2021: 551,297 over 7,886M → 0.0070% (band 5, a hair under the 0.007% line).
+- 2022 GDP ≈ 33 billion lei (≈2.4% of Romania; the county series gives 33.1 billion before the 2026 forecast of 47.6 billion): nominal $7.04B over $100.9T → 0.0070% (band 5); PPP $19.1B (2.36% of Romania's $808.2B, World Bank current international dollars) over $164.2T → 0.0116% (band 6). Basis flag: PPP (C5).
 
 ## Other candidates
 - **Window 2.** c. 3300 BCE (Baden, Coțofeni): 6–12k over 9M → 0.067–0.13%, band 9–10. c. 1300 BCE (Otomani–Gyulavarsánd tells of the Crișana, type site Otomani inside the polygon): 8–15k over 43.1M → 0.019–0.035%, band 7–8.
@@ -95,7 +95,7 @@ Veto notes
 | 13 | 1918–1950 | Interwar Bihor; Vienna Award 1940–44; 536,323 in 1948 | 527,216 / 2,056M (1930) | 0.0256% pop; 0.020–0.029% GDP | 7 / 7–8 |
 | 14 | 1950–1980 | Crișana Region; industrialisation; 633,094 in 1977 | 633,094 / 4,209M (1977) | 0.0150% pop; 0.014–0.0165% GDP | 7 / 6–7 |
 | 15 | 1980–2000 | County maximum 638,863 (1992) | 638,863 / 5,415M (1992) | 0.0118% pop; 0.008–0.011% GDP | 6 |
-| 16 | 2000–now | 551,297 (2021); GDP ≈ 33 bn lei (2022) | 551,297 / 7,886M; $7.04B / $100.9T or $19.1B / $164.2T PPP | 0.0070% pop; 0.0070–0.0116% GDP | 6 |
+| 16 | 2000–now | 551,297 (2021); GDP ≈ 33 bn lei (2022) | 551,297 / 7,886M; $7.04B / $100.9T or $19.1B / $164.2T PPP | 0.0070% pop; 0.0070–0.0116% GDP | 5 / 5–6 |
 
 ## Flags
 - **Ambiguity.** The all-time peak is the Window 1 floor artefact. The documented-era record is 1850 on Willcox's floor, tied by 1910 within rounding; band 9 appears only at the extreme GDP top of 1850. The medieval Oradea moments (c. 1450, 1552, 1660) reach band 8 only at the top of argued-premium ranges.
@@ -106,6 +106,6 @@ Veto notes
 - **Duration metadata (Ruling D).** Band 10 only in Window 1; band 8 held c. 1850–1910; band 7 held 1930–1977.
 
 ## Conclusion
-- **Final score: band 10 (open-top extension 11–12)**, attained once, c. 4500 BCE, on the Chalcolithic floor. Documented-era score: band 8 (GDP and population), 1850 on Willcox's floor, tied by 1910; band 9 only at the extreme GDP top. Contemporary band 6 on both pathways. Strategy 7, Mind 8.
+- **Final score: band 10 (open-top extension 11–12)**, attained once, c. 4500 BCE, on the Chalcolithic floor. Documented-era score: band 8 (GDP and population), 1850 on Willcox's floor, tied by 1910; band 9 only at the extreme GDP top. Contemporary band 6 (GDP, PPP) and 5 (population). Strategy 7, Mind 8.
 - **GDP ranking.** Pathway shares: 0.20–0.38% (4500 BCE), 0.033–0.051% (1850), 0.038–0.049% (1910), 0.0116% (2022, PPP). Among the twenty-six finalized units: 6th of 26 by all-time top of range (0.38%, level with Vaslui); 6th of 26 by documented-era top (0.051%, level with Prahova 0.052%, below Timiș 0.060%).
 - **Population ranking.** Pathway shares: 0.20–0.32% (4500 BCE), 0.030–0.033% (1850), 0.028–0.029% (1910), 0.0070% (2021). Among the twenty-six finalized units: 6th of 26 by all-time top (0.32%, level with Vaslui); 5th of 26 by documented-era top (0.033%, after Cluj 0.053%, Bucharest 0.0429%, Olt 0.042% and Timiș 0.037%).
