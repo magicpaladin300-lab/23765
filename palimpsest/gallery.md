@@ -8,6 +8,7 @@
 - Post-1820 sub-national GDP: Maddison national GDP × polygon population share × argued premium (cap 2.5× unless extraction-grade).
 - Chalcolithic lever (adopted at AT126): loess or lowland settled area × ≤ 1.5 persons/km² (high end of published Neolithic regional densities), multiplier ≤ 1.2, window floor 5.25M at c. 4400 BCE. Earlier units re-checked; only AT112 changed band.
 - Contact-era lever for the Americas (adopted at EC): count the pre-contact peak at c. 1450 against the 350M late-medieval floor (window 8 closes at 350M; window 9 opens at 375M), since American populations escaped the Black Death and peaked before the 1520s epidemics. Inca-capital ×2.0 is taken at c. 1520 (446.5M) where it scores higher. Colombian contact rows re-scored ×1.309.
+- Forager-floor moment (adopted at ML): forager and Green-Sahara floors are counted at 4500 BCE, the opening year of window 1 (world floor 5.0M), not c. 4000 BCE (6.4M); populations are flat across the window, and in the Sahara 4500 BCE is closer to the African Humid Period optimum. Earlier forager rows re-scored ×1.278. Culture-dated entries (Lengyel, Cucuteni, Bolgrad-Aldeni, Saqqaq, Sintashta, Yamnaya, Maykop) keep their culture-peak moments.
 
 ## Seed pegs (qualitative)
 | Unit | Dimension | Score |
@@ -113,19 +114,19 @@ Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so 
 |---|---|---|---|
 | RU Chelyabinsk | 10 | 0.30% (c. 2000 BCE, Sintashta towns) | 0.23% (c. 2000 BCE) |
 | RU Altay (read as Altai Krai) | 10 | 0.18% (c. 1800 BCE, Andronovo) | 0.15% (c. 1800 BCE) |
-| RU Magadan | 8 | 0.043% (c. 4000 BCE) | 0.036% (c. 4000 BCE) |
-| RU Sakhalin | 8 | 0.030% (c. 4000 BCE; 2012 oil and gas 0.027%) | 0.027% (c. 4000 BCE) |
-| RU Chukchi AO | 9 | 0.067% (c. 4000 BCE) | 0.056% (c. 4000 BCE) |
-| RU Yamal-Nenets | 10 | 0.18% (2011, gas at world prices) | 0.06% (c. 4000 BCE) |
-| RU Sakha Yakutia | 10 | 0.28% (c. 4000 BCE) | 0.23% (c. 4000 BCE) |
-| RU Krasnoyarsk | 10 | 0.28% (c. 4000 BCE) | 0.23% (c. 4000 BCE) |
-| RU Kamchatka | 10 (boundary; 9 sober) | 0.11% (c. 4000 BCE) | 0.094% (c. 4000 BCE) |
+| RU Magadan | 9 (was 8) | 0.055% (c. 4500 BCE) | 0.046% (c. 4500 BCE) |
+| RU Sakhalin | 8 | 0.038% (c. 4500 BCE; 2012 oil and gas 0.027%) | 0.035% (c. 4500 BCE) |
+| RU Chukchi AO | 9 | 0.086% (c. 4500 BCE) | 0.072% (c. 4500 BCE) |
+| RU Yamal-Nenets | 10 | 0.18% (2011, gas at world prices) | 0.077% (c. 4500 BCE) |
+| RU Sakha Yakutia | 10 | 0.36% (c. 4500 BCE) | 0.29% (c. 4500 BCE) |
+| RU Krasnoyarsk | 10 | 0.36% (c. 4500 BCE) | 0.29% (c. 4500 BCE) |
+| RU Kamchatka | 10 | 0.14% (c. 4500 BCE) | 0.12% (c. 4500 BCE) |
 | RU Bashkortostan | 10 | 0.14% (1913) | 0.16% (1913) |
 | RU Sverdlovsk | 10 | 0.19% (1989) | 0.093% (1913) |
-| RU Khanty-Mansiy | 10 | 0.31% (2008, oil at world prices) | 0.08% (c. 4000 BCE) |
-| RU Tomsk | 9 | 0.06% (c. 4000 BCE) | 0.05% (c. 4000 BCE) |
+| RU Khanty-Mansiy | 10 | 0.31% (2008, oil at world prices) | 0.10% (c. 4500 BCE) |
+| RU Tomsk | 9 | 0.077% (c. 4500 BCE) | 0.064% (c. 4500 BCE) |
 | RU Kemerovo | 10 | 0.12% (1989) | 0.062% (1989) |
-| RU Irkutsk | 10 | 0.15% (c. 4000 BCE, Baikal Neolithic) | 0.12% (c. 4000 BCE) |
+| RU Irkutsk | 10 | 0.19% (c. 4500 BCE, Baikal Neolithic) | 0.15% (c. 4500 BCE) |
 | RU Khakass | 10 | 0.24% (c. 2000 BCE, Minusinsk basin) | 0.20% (c. 2000 BCE) |
 | RU Perm Krai | 10 | 0.12% (1913) | 0.10% (1913) |
 | RU Pskov | 10 (boundary; 9 sober) | 0.11% (c. 1400, Pskov Republic) | 0.07% (1913) |
@@ -136,8 +137,8 @@ Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so 
 | RU Ingush | 9 (boundary; 8 sober) | 0.062% (c. 1200, Magas claim) | 0.031% (c. 1200) |
 | RU Chechnya | 9 (8 sober) | 0.062% (c. 1200, Magas claim) | 0.031% (c. 1200) |
 | RU Dagestan | 10 | 0.32% (c. 900, Derbent and Semender) | 0.20% (c. 900) |
-| RU Murmansk | 9 via Strategy (Northern Fleet); share band 8 | 0.045% (1989) | 0.023% (c. 4000 BCE) |
-| RU Karelia | 9 | 0.068% (c. 4000 BCE) | 0.056% (c. 4000 BCE) |
+| RU Murmansk | 9 via Strategy (Northern Fleet); share band 8 | 0.045% (1989) | 0.029% (c. 4500 BCE) |
+| RU Karelia | 9 | 0.087% (c. 4500 BCE) | 0.072% (c. 4500 BCE) |
 | RU Leningrad Oblast | 9 | 0.074% (c. 1200, Ladoga trade) | 0.046% (c. 1200) |
 | RU Kaliningrad | 10 | 0.17% (1939, East Prussia) | 0.048% (1939) |
 | RU Smolensk | 10 | 0.20% (c. 1200, Smolensk principality) | 0.10% (c. 1200) |
@@ -150,9 +151,9 @@ Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so 
 | RU Saratov | 10 | 0.14% (1913) | 0.15% (1913) |
 | RU Astrakhan | 10 | 0.25% (c. 1330, Sarai Batu) | 0.098% (c. 1330) |
 | RU Volgograd | 10 | 0.23% (c. 1360, New Sarai) | 0.11% (c. 1360) |
-| RU Nenets | 8 | 0.034% (c. 4000 BCE) | 0.028% (c. 4000 BCE) |
+| RU Nenets | 8 | 0.043% (c. 4500 BCE) | 0.036% (c. 4500 BCE) |
 | RU City of St Petersburg | 10 | 0.42% (1913) | 0.127% (1913) |
-| RU Arkhangelsk | 9 | 0.063% (c. 1650, customs books) | 0.046% (c. 4000 BCE) |
+| RU Arkhangelsk | 9 | 0.063% (c. 1650, customs books) | 0.059% (c. 4500 BCE) |
 | RU Kalmyk | 10 | 0.12% (c. 2500 BCE, Yamnaya) | 0.10% (c. 2500 BCE) |
 | RU Lipetsk | 9 | 0.064% (1913) | 0.075% (1913) |
 | RU Tambov | 10 | 0.099% (1913) | 0.116% (1913) |
@@ -178,7 +179,7 @@ Note: these are oblast-scale polygons, 10–100× the rubric's county scale, so 
 | RU Mariy-El | 8 | 0.022% (1913) | 0.029% (1913) |
 | RU Kirov | 10 | 0.11% (1913) | 0.145% (1913) |
 | RU Udmurt | 9 | 0.059% (1989, Izhevsk) | 0.058% (1913) |
-| RU Komi | 9 | 0.078% (c. 4000 BCE) | 0.065% (c. 4000 BCE) |
+| RU Komi | 10 (was 9) | 0.10% (c. 4500 BCE) | 0.083% (c. 4500 BCE) |
 | RU Samara | 10 | 0.138% (1913) | 0.145% (1913) |
 | RU Stavropol | 10 (boundary; 9 sober) | 0.106% (c. 2500 BCE) | 0.088% (c. 2500 BCE) |
 | RU Adygey | 10 (boundary; 9 sober) | 0.12% (c. 3500 BCE, Maykop) | 0.10% (c. 3500 BCE) |
@@ -188,30 +189,30 @@ Frames: contact-era (c. 1530) populations at the maximalist end of credentialed 
 
 | Unit | Band | GDP share (moment) | Pop share (moment) |
 |---|---|---|---|
-| CO Amazonas | 8 | 0.041% (c. 4000 BCE, Amazon foragers) | 0.034% (c. 4000 BCE) |
+| CO Amazonas | 9 (was 8) | 0.052% (c. 4500 BCE, Amazon foragers) | 0.043% (c. 4500 BCE) |
 | CO Antioquia | 10 | 0.205% (c. 1450, contact-era chiefdoms ≈ 600,000) | 0.17% (c. 1450) |
-| CO Arauca | 6 | 0.009% (c. 4000 BCE; Caño Limón 1990 0.0074%) | 0.0075% (c. 4000 BCE) |
+| CO Arauca | 6 | 0.0115% (c. 4500 BCE; Caño Limón 1990 0.0074%) | 0.0096% (c. 4500 BCE) |
 | CO Atlántico | 8 | 0.026% (1989, Barranquilla) | 0.034% (2023) |
 | CO Bogotá D.C. | 10 | 0.13% (1989) | 0.096% (1989 and 2023) |
 | CO Bolívar | 9 | 0.056% (c. 700, Zenú Mojana; Cartagena 1780 0.029%) | 0.047% (c. 700) |
 | CO Boyacá | 10 | 0.34% (c. 1450, Muisca Hunza and Sogamoso, Muzo emeralds) | 0.17% (c. 1450) |
 | CO Caldas | 8 | 0.049% (c. 500, Quimbaya) | 0.041% (c. 500) |
-| CO Caquetá | 8 | 0.033% (c. 4000 BCE) | 0.028% (c. 4000 BCE) |
-| CO Casanare | 7 | 0.017% (2008 oil; c. 4000 BCE equal) | 0.014% (c. 4000 BCE) |
+| CO Caquetá | 8 | 0.042% (c. 4500 BCE) | 0.036% (c. 4500 BCE) |
+| CO Casanare | 7 | 0.022% (c. 4500 BCE; 2008 oil 0.017%) | 0.018% (c. 4500 BCE) |
 | CO Cauca | 9 | 0.085% (c. 1450, Popayán chiefdoms) | 0.072% (c. 1450) |
 | CO Cesar | 7 | 0.017% (c. 1450) | 0.016% (2023) |
 | CO Chocó | 7 (was 6) | 0.017% (c. 1450; colonial gold 0.006%) | 0.014% (c. 1450) |
 | CO Córdoba | 10 (9 sober) | 0.19% (c. 700, Zenú Finzenú hydraulic polity) | 0.116% (c. 700) |
 | CO Cundinamarca | 10 | 0.34% (c. 1450, Muisca zipazgo) | 0.17% (c. 1450) |
-| CO Guainía | 7 | 0.027% (c. 4000 BCE) | 0.0225% (c. 4000 BCE) |
-| CO Guaviare | 7 | 0.021% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
+| CO Guainía | 8 (was 7) | 0.035% (c. 4500 BCE) | 0.029% (c. 4500 BCE) |
+| CO Guaviare | 7 | 0.027% (c. 4500 BCE) | 0.022% (c. 4500 BCE) |
 | CO Huila | 9 | 0.06% (c. 500, San Agustín) | 0.05% (c. 500) |
 | CO La Guajira | 6 | 0.0105% (c. 1450; Cerrejón 2012 0.004%) | 0.012% (2023) |
 | CO Magdalena | 10 | 0.137% (c. 1450, Tairona ≈ 300,000) | 0.085% (c. 1450) |
-| CO Meta | 8 | 0.032% (c. 4000 BCE; Rubiales 2013 0.0095%) | 0.027% (c. 4000 BCE) |
+| CO Meta | 8 | 0.041% (c. 4500 BCE; Rubiales 2013 0.0095%) | 0.035% (c. 4500 BCE) |
 | CO Nariño | 10 (was 9) | 0.103% (c. 1450, Pastos and Quillacingas) | 0.085% (c. 1450) |
 | CO Norte de Santander | 7 | 0.0275% (c. 1450) | 0.023% (c. 1450) |
-| CO Putumayo | 6 | 0.0094% (c. 4000 BCE) | 0.0078% (c. 4000 BCE) |
+| CO Putumayo | 6 | 0.012% (c. 4500 BCE) | 0.010% (c. 4500 BCE) |
 | CO Quindío | 8 (boundary; 7 sober) | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
 | CO Risaralda | 8 | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
 | CO San Andrés y Providencia | 3 | 0.0007% (2023) | 0.0007% (2023) |
@@ -219,8 +220,8 @@ Frames: contact-era (c. 1530) populations at the maximalist end of credentialed 
 | CO Sucre | 10 (boundary; 9 sober) | 0.11% (c. 700, Zenú Panzenú) | 0.07% (c. 700) |
 | CO Tolima | 8 | 0.048% (c. 1450, Pijao and Panche) | 0.041% (c. 1450) |
 | CO Valle del Cauca | 10 | 0.17% (c. 1450, Cauca valley chiefdoms ≈ 500,000) | 0.143% (c. 1450) |
-| CO Vaupés | 7 | 0.02% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
-| CO Vichada | 8 | 0.038% (c. 4000 BCE) | 0.031% (c. 4000 BCE) |
+| CO Vaupés | 7 | 0.026% (c. 4500 BCE) | 0.022% (c. 4500 BCE) |
+| CO Vichada | 8 | 0.049% (c. 4500 BCE) | 0.040% (c. 4500 BCE) |
 
 ## Ecuador (EC) — finalized units (batch; Carchi, Esmeraldas, Sucumbíos not requested)
 Frames: contact-era lever at c. 1450 / 350M. Ecuador maximalist ≈ 2.4M (Newson's Sierra ≈ 850,000 raised to 1.2M; coast 0.8M; Oriente ≈ 0.38M), allocated by province; ×1.6 where a named political or commercial centre exists (Salomon's mindaláes for Quito and Caranqui; Cañari, Puruhá, Hatun Cañar, Manteño, Puná–Huancavilca, Milagro-Quevedo), ×1.2 otherwise; Inca capitals ×2.0 at c. 1520 / 446.5M. Upano: Dorison's 15,000–30,000 + 10,000 elsewhere in the province at c. 1 CE / 158M × 1.6; the reported '>100,000' dies on the built-area veto (≈ 6,000 platforms). Valdivia: Real Alto ≈ 1,250 c. 2500 BCE as regional centre; the whole peninsula at ≤ 1.5/km² over 22.7M × 1.2. Zápara '200,000' not verified (UNESCO counts 300 in 2001) and not used. Modern checks: Ecuador 2023 GDP ≈ $119B (0.11% of world); 2022 census over the interpolated 7.83B floor.
@@ -248,3 +249,29 @@ Frames: contact-era lever at c. 1450 / 350M. Ecuador maximalist ≈ 2.4M (Newson
 | EC Los Ríos | 9, boundary; 8 sober | 0.055% (c. 1450, Milagro-Quevedo) | 0.034% (c. 1450) |
 | EC Pichincha | 10, boundary; 9 sober | 0.10% (c. 1450, Quito; Inca capital c. 1520 ties at 0.098%) | 0.063% (c. 1450) |
 | EC Santo Domingo de los Tsáchilas | 5 | 0.0069% (c. 1450) | 0.0063% (2022) |
+
+## Mali (ML) — finalized units (batch, 2023 regions)
+Frames: Green-Sahara floor 0.02/km² at 4500 BCE / 5.0M × 1.2 (Taoudénit 292,000 km², Timbuktu 206,000, Kidal 150,000, Gao ≈ 100,000, Ménaka 81,040); Jenne-jeno + satellites 26,000 (McIntosh high end, c. 800) + Dia 15,000 + Inland Delta 140,000 over 230.2M × 1.6; Ghana c. 1068: al-Bakri's 200,000 warriors read as ≈ 1M people, 22% to Nara and 18% to Nioro, over 284.1M × 1.6; Mali Empire c. 1335 over 357.6M: modern-Mali total ≈ 2.9M (Koulikoro 500,000 ×1.6; Kayes 400,000 ×1.6 for Bambuk gold; Ségou 300,000; Mopti 200,000; Bougouni 150,000; Kita 150,000; Sikasso 120,000; Koutiala, Dioïla, Nara, Nioro 100,000; Bandiagara, San 80,000; Douentza 40,000; ×1.2 elsewhere); Timbuktu 100,000 'by 1450' + 150,000 in the lakes and Niger bend, over 350M × 2.0; Gao 7,626 houses ≈ 75,000 (read to 100,000 with straw-house outskirts) + 200,000 riverine, c. 1584 over 523.7M × 2.0; Bamako 2022 census 4,227,569 over the interpolated 7.83B floor. Veto: the Mali Empire '40–50 million' dies on carrying capacity (35–45 per km² across a largely Sahelian empire, above Mali's density today).
+
+| Unit | Band | GDP share (moment) | Pop share (moment) |
+|---|---|---|---|
+| ML Taoudénit | 10 | 0.14% (c. 4500 BCE, Green Sahara) | 0.117% (c. 4500 BCE) |
+| ML Timbuktu | 10 | 0.14% (c. 1450, entrepôt city of 100,000) | 0.082% (c. 4500 BCE) |
+| ML Kidal | 9 | 0.072% (c. 4500 BCE) | 0.060% (c. 4500 BCE) |
+| ML Ménaka | 8 | 0.039% (c. 4500 BCE) | 0.032% (c. 4500 BCE) |
+| ML Gao | 10; 9 sober | 0.115% (c. 1584, Songhai capital, 7,626 houses) | 0.057% (c. 1584) |
+| ML Kayes | 10 | 0.18% (c. 1335, Bambuk goldfield under Mali) | 0.11% (c. 1335) |
+| ML Kita | 9, boundary; 8 sober | 0.050% (c. 1335) | 0.042% (c. 1335) |
+| ML Nioro | 10, boundary; 9 sober | 0.10% (c. 1068, Ghana's Wagadu core) | 0.063% (c. 1068) |
+| ML Sikasso | 8 | 0.040% (c. 1335) | 0.034% (c. 1335) |
+| ML Bougouni | 9, boundary; 8 sober | 0.050% (c. 1335) | 0.042% (c. 1335) |
+| ML Koutiala | 8 | 0.034% (c. 1335) | 0.028% (c. 1335) |
+| ML Mopti | 10; 9 sober | 0.125% (c. 800, Jenne-jeno and Dia) | 0.078% (c. 800) |
+| ML Bandiagara | 7 | 0.027% (c. 1335) | 0.022% (c. 1335) |
+| ML Douentza | 6 | 0.013% (c. 1335) | 0.011% (c. 1335) |
+| ML San | 7 | 0.027% (c. 1335) | 0.022% (c. 1335) |
+| ML Ségou | 10, boundary; 9 sober | 0.10% (c. 1335; Bambara capital c. 1790 gives 0.092%) | 0.084% (c. 1335) |
+| ML Dioïla | 8 | 0.034% (c. 1335) | 0.028% (c. 1335) |
+| ML Koulikoro | 10 | 0.22% (c. 1335, Manden heartland of the Mali Empire) | 0.14% (c. 1335) |
+| ML Nara | 10 | 0.12% (c. 1068, Ghana's Wagadu core) | 0.077% (c. 1068) |
+| ML Bamako | 9 | 0.007% (2023) | 0.054% (2022 census, 4.23M) |
