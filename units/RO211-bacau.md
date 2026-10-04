@@ -17,7 +17,7 @@
 | Population share, 1930 | 0.0178–0.0187% | ~0.018% | ~1.0× |
 | GDP share, 2022 (PPP) | 0.0091% | 0.0055% nominal | — |
 
-**BAND** 10 (open-top extension 11–12). Consensus band 8. Documented-era band: 8 at the lawyered top (range 6–8; GDP c. 1650); census-grade 7 (GDP 1850–1912; population 1850–1977). Contemporary: 6 (GDP, PPP), 6 (population).
+**BAND** 10 (open-top extension 10–12). Consensus band 8. Documented-era band: 8 at the lawyered top (range 6–8; GDP c. 1650); census-grade 7 (GDP 1850–1912; population 1850–1977). Contemporary: 6 (GDP, PPP), 6 (population).
 **Qualitative** Strategy 6 · Mind 6.
 
 ## Deep score — Window 1, c. 4500 BCE
@@ -74,7 +74,7 @@ Veto notes
 ## Timeline sketch (16 windows)
 | # | Window | What happened inside the polygon | Numerator / floor | Rough share | Band |
 |---|---|---|---|---|---|
-| 1 | 4500–3300 BCE | Cucuteni A (Poduri, Târgu Ocna-Podei, Mărgineni); salt springs worked | 8–13k / 5.0M (4500 BCE) | 0.16–0.26% pop; 0.16–0.31% GDP | **10 (ext 11–12) — PEAK** |
+| 1 | 4500–3300 BCE | Cucuteni A (Poduri, Târgu Ocna-Podei, Mărgineni); salt springs worked | 8–13k / 5.0M (4500 BCE) | 0.16–0.26% pop; 0.16–0.31% GDP | **10 (ext 10–12) — PEAK** |
 | 2 | 3300–1200 BCE | Horodiștea–Folteşti; Monteoru; Noua | 5–10k / 9M (3300 BCE); 6–12k / 43.1M (1300 BCE) | 0.056–0.11%; 0.014–0.028% | 9–10; 6–7 |
 | 3 | 1200–500 BCE | Early Iron Age; Getic beginnings | 6–12k / 80M (700 BCE) | 0.0075–0.015% | 6 |
 | 4 | 500 BCE–200 CE | Davae of Brad and Răcătău; eastern Dacians outside the Roman province | 22–44k / 137M (50 BCE, Deevey-deep) | 0.016–0.032% pop; 0.013–0.038% GDP | 7–8 (allocation-grade) |
@@ -100,6 +100,6 @@ Veto notes
 - **Duration metadata (Ruling D).** Band 10 only in Window 1; band 7 held c. 1850–1977 on population and c. 1650–1912 on GDP (upper range).
 
 ## Conclusion
-- **Final score: band 10 (open-top extension 11–12)**, attained once, c. 4500 BCE, on the Chalcolithic floor. Documented-era score: band 8 at the lawyered top (range 6–8), c. 1650, via the Târgu Ocna salt-and-customs premium on Willcox's floor; census-grade band 7 (1850–1977). Contemporary band 6 on both pathways.
+- **Final score: band 10 (open-top extension 10–12)**, attained once, c. 4500 BCE, on the Chalcolithic floor. Documented-era score: band 8 at the lawyered top (range 6–8), c. 1650, via the Târgu Ocna salt-and-customs premium on Willcox's floor; census-grade band 7 (1850–1977). Contemporary band 6 on both pathways.
 - **GDP ranking.** Pathway shares: 0.16–0.31% (4500 BCE), 0.012–0.031% (c. 1650), 0.016–0.027% (1850), 0.0091% (2022, PPP). Among the twenty-five finalized units: 8th of 25 by all-time top of range (0.31%, level with Csongrád-Csanád); 11th of 25 by documented-era top (0.031%, level with Dâmbovița 0.033% and Szabolcs 0.034%).
 - **Population ranking.** Pathway shares: 0.16–0.26% (4500 BCE), 0.0174–0.0202% (1850), 0.0178–0.0187% (1930), 0.0159% (1977), 0.0076% (2021). Among the twenty-five finalized units: 9th of 25 by all-time top (0.26%); 10th of 25 by documented-era top (0.0202%, level with Teleorman 0.0204% and Olt 0.021%).
