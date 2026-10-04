@@ -7,6 +7,7 @@
 - Divergences lasting ≤ 1 year are skipped.
 - Post-1820 sub-national GDP: Maddison national GDP × polygon population share × argued premium (cap 2.5× unless extraction-grade).
 - Chalcolithic lever (adopted at AT126): loess or lowland settled area × ≤ 1.5 persons/km² (high end of published Neolithic regional densities), multiplier ≤ 1.2, window floor 5.25M at c. 4400 BCE. Earlier units re-checked; only AT112 changed band.
+- Contact-era lever for the Americas (adopted at EC): count the pre-contact peak at c. 1450 against the 350M late-medieval floor (window 8 closes at 350M; window 9 opens at 375M), since American populations escaped the Black Death and peaked before the 1520s epidemics. Inca-capital ×2.0 is taken at c. 1520 (446.5M) where it scores higher. Colombian contact rows re-scored ×1.309.
 
 ## Seed pegs (qualitative)
 | Unit | Dimension | Score |
@@ -188,35 +189,62 @@ Frames: contact-era (c. 1530) populations at the maximalist end of credentialed 
 | Unit | Band | GDP share (moment) | Pop share (moment) |
 |---|---|---|---|
 | CO Amazonas | 8 | 0.041% (c. 4000 BCE, Amazon foragers) | 0.034% (c. 4000 BCE) |
-| CO Antioquia | 10 (9 sober) | 0.157% (c. 1530, contact-era chiefdoms ≈ 600,000) | 0.13% (c. 1530) |
+| CO Antioquia | 10 | 0.205% (c. 1450, contact-era chiefdoms ≈ 600,000) | 0.17% (c. 1450) |
 | CO Arauca | 6 | 0.009% (c. 4000 BCE; Caño Limón 1990 0.0074%) | 0.0075% (c. 4000 BCE) |
 | CO Atlántico | 8 | 0.026% (1989, Barranquilla) | 0.034% (2023) |
 | CO Bogotá D.C. | 10 | 0.13% (1989) | 0.096% (1989 and 2023) |
 | CO Bolívar | 9 | 0.056% (c. 700, Zenú Mojana; Cartagena 1780 0.029%) | 0.047% (c. 700) |
-| CO Boyacá | 10 | 0.26% (c. 1530, Muisca Hunza and Sogamoso, Muzo emeralds) | 0.13% (c. 1530) |
+| CO Boyacá | 10 | 0.34% (c. 1450, Muisca Hunza and Sogamoso, Muzo emeralds) | 0.17% (c. 1450) |
 | CO Caldas | 8 | 0.049% (c. 500, Quimbaya) | 0.041% (c. 500) |
 | CO Caquetá | 8 | 0.033% (c. 4000 BCE) | 0.028% (c. 4000 BCE) |
 | CO Casanare | 7 | 0.017% (2008 oil; c. 4000 BCE equal) | 0.014% (c. 4000 BCE) |
-| CO Cauca | 9 | 0.065% (c. 1530, Popayán chiefdoms) | 0.055% (c. 1530) |
-| CO Cesar | 7 | 0.013% (c. 1530) | 0.016% (2023) |
-| CO Chocó | 6 | 0.013% (c. 1530; colonial gold 0.006%) | 0.011% (c. 1530) |
+| CO Cauca | 9 | 0.085% (c. 1450, Popayán chiefdoms) | 0.072% (c. 1450) |
+| CO Cesar | 7 | 0.017% (c. 1450) | 0.016% (2023) |
+| CO Chocó | 7 (was 6) | 0.017% (c. 1450; colonial gold 0.006%) | 0.014% (c. 1450) |
 | CO Córdoba | 10 (9 sober) | 0.19% (c. 700, Zenú Finzenú hydraulic polity) | 0.116% (c. 700) |
-| CO Cundinamarca | 10 | 0.26% (c. 1530, Muisca zipazgo) | 0.13% (c. 1530) |
+| CO Cundinamarca | 10 | 0.34% (c. 1450, Muisca zipazgo) | 0.17% (c. 1450) |
 | CO Guainía | 7 | 0.027% (c. 4000 BCE) | 0.0225% (c. 4000 BCE) |
 | CO Guaviare | 7 | 0.021% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
 | CO Huila | 9 | 0.06% (c. 500, San Agustín) | 0.05% (c. 500) |
-| CO La Guajira | 6 | 0.008% (c. 1530; Cerrejón 2012 0.004%) | 0.012% (2023) |
-| CO Magdalena | 10 (boundary; 8 sober) | 0.105% (c. 1530, Tairona ≈ 300,000) | 0.065% (c. 1530) |
+| CO La Guajira | 6 | 0.0105% (c. 1450; Cerrejón 2012 0.004%) | 0.012% (2023) |
+| CO Magdalena | 10 | 0.137% (c. 1450, Tairona ≈ 300,000) | 0.085% (c. 1450) |
 | CO Meta | 8 | 0.032% (c. 4000 BCE; Rubiales 2013 0.0095%) | 0.027% (c. 4000 BCE) |
-| CO Nariño | 9 | 0.079% (c. 1530, Pastos and Quillacingas) | 0.065% (c. 1530) |
-| CO Norte de Santander | 7 | 0.021% (c. 1530) | 0.02% (2023) |
+| CO Nariño | 10 (was 9) | 0.103% (c. 1450, Pastos and Quillacingas) | 0.085% (c. 1450) |
+| CO Norte de Santander | 7 | 0.0275% (c. 1450) | 0.023% (c. 1450) |
 | CO Putumayo | 6 | 0.0094% (c. 4000 BCE) | 0.0078% (c. 4000 BCE) |
 | CO Quindío | 8 (boundary; 7 sober) | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
 | CO Risaralda | 8 | 0.03% (c. 500, Quimbaya) | 0.025% (c. 500) |
 | CO San Andrés y Providencia | 3 | 0.0007% (2023) | 0.0007% (2023) |
 | CO Santander | 8 | 0.037% (c. 1780, Socorro textile region) | 0.028% (2023) |
 | CO Sucre | 10 (boundary; 9 sober) | 0.11% (c. 700, Zenú Panzenú) | 0.07% (c. 700) |
-| CO Tolima | 8 | 0.037% (c. 1530, Pijao and Panche) | 0.031% (c. 1530) |
-| CO Valle del Cauca | 10 | 0.13% (c. 1530, Cauca valley chiefdoms ≈ 500,000) | 0.109% (c. 1530) |
+| CO Tolima | 8 | 0.048% (c. 1450, Pijao and Panche) | 0.041% (c. 1450) |
+| CO Valle del Cauca | 10 | 0.17% (c. 1450, Cauca valley chiefdoms ≈ 500,000) | 0.143% (c. 1450) |
 | CO Vaupés | 7 | 0.02% (c. 4000 BCE) | 0.017% (c. 4000 BCE) |
 | CO Vichada | 8 | 0.038% (c. 4000 BCE) | 0.031% (c. 4000 BCE) |
+
+## Ecuador (EC) — finalized units (batch; Carchi, Esmeraldas, Sucumbíos not requested)
+Frames: contact-era lever at c. 1450 / 350M. Ecuador maximalist ≈ 2.4M (Newson's Sierra ≈ 850,000 raised to 1.2M; coast 0.8M; Oriente ≈ 0.38M), allocated by province; ×1.6 where a named political or commercial centre exists (Salomon's mindaláes for Quito and Caranqui; Cañari, Puruhá, Hatun Cañar, Manteño, Puná–Huancavilca, Milagro-Quevedo), ×1.2 otherwise; Inca capitals ×2.0 at c. 1520 / 446.5M. Upano: Dorison's 15,000–30,000 + 10,000 elsewhere in the province at c. 1 CE / 158M × 1.6; the reported '>100,000' dies on the built-area veto (≈ 6,000 platforms). Valdivia: Real Alto ≈ 1,250 c. 2500 BCE as regional centre; the whole peninsula at ≤ 1.5/km² over 22.7M × 1.2. Zápara '200,000' not verified (UNESCO counts 300 in 2001) and not used. Modern checks: Ecuador 2023 GDP ≈ $119B (0.11% of world); 2022 census over the interpolated 7.83B floor.
+
+| Unit | Band | GDP share (moment) | Pop share (moment) |
+|---|---|---|---|
+| EC Orellana | 7 | 0.024% (c. 1450, Napo-phase river towns) | 0.020% (c. 1450) |
+| EC Pastaza | 7 | 0.027% (c. 1450) | 0.023% (c. 1450) |
+| EC Morona Santiago | 8 | 0.040% (c. 1 CE, Upano valley urban network) | 0.025% (c. 1 CE) |
+| EC Zamora Chinchipe | 7 via Mind (earliest cacao use, Santa Ana–La Florida c. 3300 BCE); share band 6 | 0.010% (c. 1450) | 0.0086% (c. 1450) |
+| EC Loja | 8 | 0.034% (c. 1450, Palta) | 0.029% (c. 1450) |
+| EC El Oro | 7 | 0.017% (c. 1450) | 0.014% (c. 1450) |
+| EC Guayas | 10; 9 sober | 0.11% (c. 1450, Puná, Huancavilca, Daule raised fields) | 0.069% (c. 1450) |
+| EC Galápagos | 8 via Mind (Darwin's finches, Charles Darwin Research Station); share band 3 | 0.0005% (2019, tourism) | 0.00036% (2022) |
+| EC Santa Elena | 8, boundary; 7 sober | 0.029% (c. 2500 BCE, Valdivia, Real Alto) | 0.024% (c. 2500 BCE) |
+| EC Manabí | 10; 9 sober | 0.12% (c. 1450, Manteño merchant confederation) | 0.074% (c. 1450) |
+| EC Azuay | 9 | 0.073% (c. 1450, Cañari; Tomebamba c. 1520 ties at 0.072%) | 0.046% (c. 1450) |
+| EC Cañar | 8 | 0.041% (c. 1450, Hatun Cañar) | 0.026% (c. 1450) |
+| EC Tungurahua | 7 | 0.027% (c. 1450) | 0.023% (c. 1450) |
+| EC Napo | 7 | 0.024% (c. 1450, Quijos chiefdoms) | 0.020% (c. 1450) |
+| EC Chimborazo | 9 | 0.073% (c. 1450, Puruhá) | 0.046% (c. 1450) |
+| EC Bolívar | 7 | 0.017% (c. 1450) | 0.014% (c. 1450) |
+| EC Imbabura | 9 | 0.069% (c. 1450, Caranqui) | 0.043% (c. 1450) |
+| EC Cotopaxi | 8 | 0.043% (c. 1520, Inca Tacunga) | 0.034% (c. 1450) |
+| EC Los Ríos | 9, boundary; 8 sober | 0.055% (c. 1450, Milagro-Quevedo) | 0.034% (c. 1450) |
+| EC Pichincha | 10, boundary; 9 sober | 0.10% (c. 1450, Quito; Inca capital c. 1520 ties at 0.098%) | 0.063% (c. 1450) |
+| EC Santo Domingo de los Tsáchilas | 5 | 0.0069% (c. 1450) | 0.0063% (2022) |
