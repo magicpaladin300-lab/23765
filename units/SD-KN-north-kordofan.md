@@ -79,7 +79,7 @@ Veto notes
 ## Timeline sketch (16 windows)
 | # | Window | What happened inside the polygon | Numerator / floor | Rough share | Band |
 |---|---|---|---|---|---|
-| 1 | 4500–3300 BCE | Humid-period steppe and savanna; Wadi al-Milk herders; Jebel Haraza rock art | 23.3–60.6k / 5.0M (4500 BCE) | 0.47–1.21% pop; 0.37–1.21% GDP | **10 (ext 13–14) — PEAK** |
+| 1 | 4500–3300 BCE | Humid-period steppe and savanna; Wadi al-Milk herders; Jebel Haraza rock art | 23.3–60.6k / 5.0M (4500 BCE) | 0.47–1.21% pop; 0.37–1.21% GDP | **10 (ext 12–14) — PEAK** |
 | 2 | 3300–1200 BCE | Humid period ends; the north dries | 20–55k / 9M (3300 BCE); 20–55k / 43.1M (1300 BCE) | 0.18–0.61%; 0.046–0.128% | 10; 9–10 |
 | 3 | 1200–500 BCE | Pastoral periphery of Napata | 25–70k / 80M (700 BCE) | 0.031–0.0875% | 8–9 |
 | 4 | 500 BCE–200 CE | Pastoral periphery of Meroe | 30–80k / 133M (1 CE) | 0.0226–0.06% | 7–9 |
