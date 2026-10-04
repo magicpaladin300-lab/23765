@@ -19,7 +19,7 @@
 | Population share, 2008 | 0.0364–0.0393% (current territory, allocated); 0.0434% (the 2006–13 state's 2,920,890) | 0.0364% | ~1.1× |
 | GDP share, 2022 (PPP, est.) | 0.0076–0.0114% | 0.0032–0.0049% nominal | — |
 
-**BAND** 10 (open-top extension 13–14). Consensus band 9–10. Documented-era band: 9 at the lawyered top (range 7–9; c. 1750). Census-grade: 8 (population 1983–2024). Contemporary GDP: 6 (PPP, estimated; 5 nominal).
+**BAND** 10 (open-top extension 12–14). Consensus band 9–10. Documented-era band: 9 at the lawyered top (range 7–9; c. 1750). Census-grade: 8 (population 1983–2024). Contemporary GDP: 6 (PPP, estimated; 5 nominal).
 **Qualitative** Strategy 7 · Mind 5.
 
 ## Deep score — Window 1, c. 4500 BCE
@@ -106,6 +106,6 @@ Veto notes
 - **Duration metadata (Ruling D).** Band 10 in Windows 1–2 (c. 4500–1300 BCE); band 9 only at the top of range c. 1650–1790; band 8 held 1983–2024 on the census-grade series.
 
 ## Conclusion
-- **Final score: band 10 (open-top extension 13–14)**, attained c. 4500 BCE on the Chalcolithic floor with an equivalence-rule allocation over a ~185,000 km² state, the gallery's largest Window 1 share and a polygon-size effect. Documented-era score: band 9 at the lawyered top (range 7–9), c. 1750, via the Musabba'at sultanate of Kordofan at Bara and El Obeid with the gum arabic trade; census-grade band 8 (population 1983–2024; CBS 2018 estimate 3,174,029 → 0.0417%). Contemporary GDP band 6 (PPP, estimated). Strategy 7, Mind 5.
+- **Final score: band 10 (open-top extension 12–14)**, attained c. 4500 BCE on the Chalcolithic floor with an equivalence-rule allocation over a ~185,000 km² state, the gallery's largest Window 1 share and a polygon-size effect. Documented-era score: band 9 at the lawyered top (range 7–9), c. 1750, via the Musabba'at sultanate of Kordofan at Bara and El Obeid with the gum arabic trade; census-grade band 8 (population 1983–2024; CBS 2018 estimate 3,174,029 → 0.0417%). Contemporary GDP band 6 (PPP, estimated). Strategy 7, Mind 5.
 - **GDP ranking.** Pathway shares: 0.37–1.21% (4500 BCE), 0.023–0.079% (c. 1750), 0.016–0.063% (c. 1790), 0.023–0.056% (c. 1880, El Obeid), 0.022–0.082% (c. 1650, allocation-grade, not adopted), 0.0076–0.0114% (2022, PPP, est.). Among the sixty finalized units: 1st of 60 by all-time top of range (1.21%, above Northern 1.14% and South Kordofan 1.08%), a rank that reflects the ADM1 polygon; about 15th of 60 by documented-era top (0.079%, below Mehedinți c. 250 and South Kordofan c. 1650 at 0.085% and above Central Darfur c. 1700 0.072%).
 - **Population ranking.** Pathway shares: 0.47–1.21% (4500 BCE), 0.029–0.061% (c. 1750), 0.044–0.048% (2024), 0.0417% (2018), 0.036–0.039% (2008, allocated), 0.033–0.038% (1993). Among the sixty finalized units: 1st of 60 by all-time top (1.21%, above South Kordofan 1.08% and Northern 1.04%); about 10th of 60 by documented-era top (0.061%, between Sennar's and Red Sea's documented-era tops and below South Darfur 2024 0.078%); 4th of 60 by census-grade top (0.044–0.048% in 2024, below South Darfur 2024 0.078%, Gezira 2024 0.0735% and Khartoum 2023 0.119%, above Bucharest 1977 0.0429%; 5th on the 2018 CBS figure 0.0417%).
