@@ -4,7 +4,7 @@
 **Polygon** Current boundaries (state of 1994): 37,844 km², seat Singa; localities Sennar, Singa, East Sennar, Abu Hugar, Ad-Dindir, Ad-Dali and Al-Mazmum, As-Suki. The southern Gezira between the Blue Nile and the Dinder–Rahad plain, with Sennar town and dam, Jebel Moya and the Dinder National Park. Historic components: the heartland of the Funj sultanate of Sennar (1504–1821) with its capital, the Turco-Egyptian Sennar mudiriya, the condominium's Blue Nile (Fung) Province, Blue Nile Province of 1956–74 and Central Region (1974–94). Boundary divergences of one year or less: none material.
 
 **PEAK WINDOW + moment** Window 1 (Chalcolithic), c. 4500 BCE: the African Humid Period savanna and the Blue Nile valley at the equivalence-rule densities.
-**Documented-era peak** Window 10, c. 1700: Sennar, capital of the Funj sultanate, put at 100,000 inhabitants by Charles-Jacques Poncet (1699), with the southern Gezira as the sultanate's granary and the Fazughli gold and Red Sea trade passing through the court; band 10 at the lawyered top (range 8–10). Census-grade peak: population band 7 (2018), 8 at the top of the 2024 trend.
+**Documented-era peak** Window 10, c. 1700: Sennar, capital of the Funj sultanate, put at 100,000 inhabitants by Charles-Jacques Poncet (1699), with the southern Gezira as the sultanate's granary and the Fazughli gold and Red Sea trade passing through the court; band 10 at the lawyered top (range 7–10). Census-grade peak: population band 7 (2018), 8 at the top of the 2024 trend.
 **WINNING PATHWAY** GDP (population tied in Window 1).
 
 | | Lawyered | Consensus | Delta |
@@ -17,7 +17,7 @@
 | Population share, 2018 | 0.0252% (CBS) | 0.0252% | 1.0× |
 | GDP share, 2022 (PPP, est.) | 0.0041–0.0059% | 0.0017–0.0025% nominal | — |
 
-**BAND** 10 (open-top extension 10–12). Consensus band 8. Documented-era band: 10 at the lawyered top (range 8–10; GDP c. 1700 on Poncet's 100,000). Census-grade: 7 (population 2008–2018), 8 at the top of the 2024 trend. Contemporary GDP: 5 (PPP, estimated; 4 nominal).
+**BAND** 10 (open-top extension 10–12). Consensus band 8. Documented-era band: 10 at the lawyered top (range 7–10; GDP c. 1700 on Poncet's 100,000). Census-grade: 7 (population 2008–2018), 8 at the top of the 2024 trend. Contemporary GDP: 5 (PPP, estimated; 4 nominal).
 **Qualitative** Strategy 7 · Mind 6.
 
 ## Deep score — Window 1, c. 4500 BCE
@@ -45,7 +45,7 @@ Numerator components
 
 Denominator: 610M at 1700 (McEvedy & Jones); on the Willcox-interpolated 582M the shares rise by 5%, and carried back to Badi II's apogee c. 1650 on Willcox's 470M the top would reach 0.113%.
 
-Result: population 0.030–0.074% (band 8–9); GDP 0.027–0.093% (band 8–10; 0.052% at the mid-range of 300k × 1.06; 10 at the lawyered top, where Poncet's 100,000 and the full hinterland and premium stack).
+Result: population 0.030–0.074% (band 8–9); GDP 0.027–0.093% (band 7–10; 0.052% at the mid-range of 300k × 1.06; 10 at the lawyered top, where Poncet's 100,000 and the full hinterland and premium stack).
 
 Veto notes
 - Killed: a multiplier above 1.26 (no fiscal ledger); killed a hinterland above 350k (the whole Funj core cannot have exceeded ~1.2M, and Gezira and the White Nile take the rest).
@@ -89,7 +89,7 @@ Veto notes
 | 7 | 1000–1300 | Alodia's decline; Arab migrations | 40–100k / 360M (1300) | 0.0078–0.028% | 6–7 |
 | 8 | 1300–1450 | Abdallab; Alodia's fall c. 1500 | 40–100k / 350M (1450) | 0.008–0.029% | 6–8 |
 | 9 | 1450–1600 | Funj sultanate founded 1504; Sennar the capital | 120–300k / 485M (1550) | 0.025–0.062% pop; 0.022–0.078% GDP | 7–9 |
-| 10 | 1600–1750 | Badi II's conquests; Poncet 1699 (100,000); Krump 1701 | 180–450k / 610M (1700) | 0.030–0.074% pop; 0.027–0.093% GDP | **8–10 (10 at top) — documented-era peak** |
+| 10 | 1600–1750 | Badi II's conquests; Poncet 1699 (100,000); Krump 1701 | 180–450k / 610M (1700) | 0.030–0.074% pop; 0.027–0.093% GDP | **7–10 (10 at top) — documented-era peak** |
 | 11 | 1750–1870 | Hamaj regency; Bruce 1772; Egyptian conquest 1821, Sennar razed | 200–450k / 694M (1750, Willcox); 150–350k / 1,091M (1850) | 0.029–0.065%; 0.014–0.032% | 8–9; 6–8 |
 | 12 | 1870–1918 | Mahdiyya; condominium Blue Nile Province; railway 1909 | 100–220k / 1,564M (1900) | 0.0064–0.0141% pop; 0.0032–0.0113% GDP | 5–6 |
 | 13 | 1918–1950 | Sennar Dam 1925; Gezira Scheme; Singa skull 1924 | 200–300k / 2,056M (1930) | 0.0097–0.0146% pop; 0.0058–0.0131% GDP | 6 / 5–6 |
@@ -107,6 +107,6 @@ Veto notes
 - **Duration metadata (Ruling D).** Band 10 in Window 1 and, at the top of range only, c. 1650–1720; band 8–9 held c. 1550–1760 on the lawyered sultanate figures; band 7 on population since the 1980s.
 
 ## Conclusion
-- **Final score: band 10 (open-top extension 10–12)**, attained c. 4500 BCE on the Chalcolithic floor with an equivalence-rule density allocation over a 37,844 km² state, and again at the top of range c. 1700 as the Funj capital. Documented-era score: band 10 at the lawyered top (range 8–10), c. 1700, via Poncet's 100,000 for Sennar and the sultanate's granary; census-grade band 7 (population 2008–2018), 8 at the top of the 2024 trend. Contemporary GDP band 5 (PPP, estimated). Strategy 7, Mind 6.
+- **Final score: band 10 (open-top extension 10–12)**, attained c. 4500 BCE on the Chalcolithic floor with an equivalence-rule density allocation over a 37,844 km² state, and again at the top of range c. 1700 as the Funj capital. Documented-era score: band 10 at the lawyered top (range 7–10), c. 1700, via Poncet's 100,000 for Sennar and the sultanate's granary; census-grade band 7 (population 2008–2018), 8 at the top of the 2024 trend. Contemporary GDP band 5 (PPP, estimated). Strategy 7, Mind 6.
 - **GDP ranking.** Pathway shares: 0.11–0.35% (4500 BCE), 0.027–0.093% (c. 1700), 0.0345–0.113% (c. 1650 on Willcox, trough-hunted alternative), 0.0231–0.0778% (c. 1750), 0.0121–0.0200% (1993), 0.0041–0.0059% (2022, PPP, est.). Among the forty-seven finalized units: 16th of 47 by all-time top of range (0.35%, level with Hajdú-Bihar and Jász-Nagykun-Szolnok 0.35% and below Olt, Cluj and Argeș 0.36%); 6th of 47 by documented-era top (0.093%, below Olt 0.10% and above Mehedinți 0.085%).
 - **Population ranking.** Pathway shares: 0.14–0.35% (4500 BCE), 0.030–0.074% (c. 1700), 0.0288–0.0648% (c. 1750), 0.027–0.029% (2024), 0.0252% (2018), 0.0191% (2008). Among the forty-seven finalized units: 9th of 47 by all-time top (0.35%, level with Teleorman and Botoșani 0.36% and above Arad 0.348%); 3rd of 47 by documented-era top (0.074%, below Constanța c. 200 0.079% and South Darfur 2024 0.078%, above Central Darfur c. 1750 0.072%); about 7th of 47 by census-grade top (0.029%, level with Arad 1850 0.0316% and Mureș 1787 0.0307%).
